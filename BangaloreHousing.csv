@@ -1,0 +1,2785 @@
+﻿Price,Area,Location,City,No_of_Bedrooms,Resale,MaintenanceStaff,Gymnasium,SwimmingPool,LandscapedGardens,JoggingTrack,RainWaterHarvesting,IndoorGames,ShoppingMall,Intercom,SportsFacility,ATM,ClubHouse,School,Security,PowerBackup
+300000,3340,JP Nagar Phase 1,Bangalore,4,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+78880,1045,Dasarahalli on Tumkur Road,Bangalore,2,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+48660,1179,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0
+83580,1675,Doddanekundi,Bangalore,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+68450,1670,Kengeri,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+67970,1220,Horamavu,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+200000,2502,Thanisandra,Bangalore,4,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1
+71050,1438,Ramamurthy Nagar,Bangalore,3,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1
+84050,1405,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+35060,660,Electronic City Phase 1,Bangalore,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+77000,1362,Yelahanka,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+93690,1735,Anjanapura,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+87160,1575,Jalahalli,Bangalore,3,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+53940,1120,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+63670,1415,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+50800,1270,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+72099.99,1311,Bellandur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+57000,1210,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,1
+300000,3340,JP Nagar Phase 1,Bangalore,4,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+78880,1045,Dasarahalli on Tumkur Road,Bangalore,2,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+48660,1179,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0
+83580,1675,Doddanekundi,Bangalore,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+68450,1670,Kengeri,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+67970,1220,Horamavu,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+200000,2502,Thanisandra,Bangalore,4,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1
+71050,1438,Ramamurthy Nagar,Bangalore,3,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1
+84050,1405,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+35060,660,Electronic City Phase 1,Bangalore,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+77000,1362,Yelahanka,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+93690,1735,Anjanapura,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+87160,1575,Jalahalli,Bangalore,3,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+53940,1120,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+63670,1415,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+50800,1270,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+72099.99,1311,Bellandur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+57000,1210,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,1
+124000,1705,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1
+49000,1187,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+300000,3340,JP Nagar Phase 1,Bangalore,4,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+78880,1045,Dasarahalli on Tumkur Road,Bangalore,2,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+48660,1179,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0
+83580,1675,Doddanekundi,Bangalore,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+68450,1670,Kengeri,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+67970,1220,Horamavu,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+200000,2502,Thanisandra,Bangalore,4,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1
+71050,1438,Ramamurthy Nagar,Bangalore,3,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1
+84050,1405,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+35060,660,Electronic City Phase 1,Bangalore,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+77000,1362,Yelahanka,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+93690,1735,Anjanapura,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+87160,1575,Jalahalli,Bangalore,3,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+53940,1120,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+63670,1415,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+50800,1270,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+72099.99,1311,Bellandur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+57000,1210,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,1
+124000,1705,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1
+49000,1187,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+50800,1270,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+96300,2293,Kannur on Thanisandra Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+94580,1726,Hosa Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+237000,2470,Sahakar Nagar,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+73630,1570,Kadugodi,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+54890,1120,Jakkur,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42160,1506,Jigani,Bangalore,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+43680,1040,Krishnarajapura,Bangalore,2,0,0,0,0,1,1,1,0,0,1,0,0,0,0,1,1
+76000,1150,Brookefield,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45450,1045,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+231000,2480,Banashankari,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+80000,1160,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+45140,1143,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,1,1,1
+54600,1300,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44140,966,Nelamangala,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+88680,1245,Begur,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+61330,1275,Ramamurthy Nagar,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+30380,1085,Attibele,Bangalore,2,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,1
+71000,1286,Nelamangala,Bangalore,3,1,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0
+75069.99,1155,Banaswadi,Bangalore,2,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0
+65200,1304,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,0
+63890,1120,Kodigehalli,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1
+117000,2017,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+56000,1340,Uttarahalli Hobli,Bangalore,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+45620,1304,Electronic City Phase 1,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+29510,649,Ramamurthy Nagar,Bangalore,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+42640,1108,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+66980,1675,Krishnarajapura,Bangalore,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+81000,718,Chikkagubbi on Hennur Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+45000,1075,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,1
+49280,1120,Varthur,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61000,1350,Vidyaranyapura,Bangalore,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+61510,1404,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1
+54260,1080,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+130000,1800,J. P. Nagar,Bangalore,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48500,1060,K. Chudahalli,Bangalore,2,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1
+46040,1540,Narayanaghatta,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+36070,1110,Anekal City,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,1,0,1,1
+165000,1645,Sahakar Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+48400,1345,Sarjapur,Bangalore,3,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1
+258000,1866,Koramangala,Bangalore,3,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+510000,3500,Hebbal,Bangalore,3,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+48090,1145,Electronic City Phase 1,Bangalore,2,0,0,1,1,1,0,1,1,0,1,0,0,1,0,1,1
+50700,935,Budigere Cross,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+105000,1455,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+68500,1305,Uttarahalli Hobli,Bangalore,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+45800,1145,Varthur,Bangalore,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+55590,1635,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+47230,1145,RR Nagar,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+44650,1175,Krishnarajapura,Bangalore,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89540,1216,Varthur,Bangalore,2,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+40000,1005,Electronics City,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54000,1200,Chikkalasandra,Bangalore,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87840,1279,Kogilu,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+79000,1180,Nayandahalli,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+47810,1310,Electronic City Phase 2,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+150000,1776,Bilekahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+47000,1125,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+77670,1195,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+64870,1272,Thanisandra,Bangalore,2,0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1
+140000,2170,Junnasandra,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+87580,1510,RR Nagar,Bangalore,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+131000,1846,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+55000,1170,Kothanur,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49000,1215,Kadugodi Industrial Area,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45450,1045,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+87790,1245,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+220000,1833,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1
+53290,969,Sarjapur Road Wipro To Railway Crossing,Bangalore,2,0,1,1,1,1,1,0,1,0,1,0,0,1,0,1,0
+75000,1100,RMV Extension Stage 2,Bangalore,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37799.99,900,Kudlu,Bangalore,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1
+89540,1216,Varthur,Bangalore,2,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+90000,1306,Talaghattapura,Bangalore,2,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+258000,1866,Koramangala,Bangalore,3,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+89540,1216,Varthur,Bangalore,2,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+131000,1846,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+82180,1505,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+86560,1502,Jakkur,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+75200,1675,Doddanekundi,Bangalore,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+61480,1083,Kumbalgodu,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+110000,1805,Begur,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+113999.99,1880,Begur,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+130000,2180,Begur,Bangalore,4,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+112999.99,1850,Begur,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+49000,1188,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0
+50020,1215,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0
+50360,1224,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0
+67360,1350,Doddanekundi,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+82330,1650,Doddanekundi,Bangalore,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+67610,1355,Doddanekundi,Bangalore,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+66110,1325,Doddanekundi,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+62870,1260,Doddanekundi,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+64370,1290,Doddanekundi,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+61120,1225,Doddanekundi,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+64870,1300,Doddanekundi,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+94120,1247,Dasarahalli on Tumkur Road,Bangalore,2,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+105000,1486,Dasarahalli on Tumkur Road,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+102000,1433,Dasarahalli on Tumkur Road,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+47220,1152,Kengeri,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+45860,1119,Kengeri,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+45820,1118,Kengeri,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+67870,1656,Kengeri,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+93190,1629,Horamavu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+68920,1237,Horamavu,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+92770,1275,Bommanahalli,Bangalore,2,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+116000,1615,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+109000,1515,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+105000,1455,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+98590,1360,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+69739.99,1409,Ramamurthy Nagar,Bangalore,3,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1
+57050,1139,Ramamurthy Nagar,Bangalore,2,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1
+57720,1154,Ramamurthy Nagar,Bangalore,2,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1
+67209.99,1353,Ramamurthy Nagar,Bangalore,3,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1
+67610,1362,Ramamurthy Nagar,Bangalore,3,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1
+56770,1133,Ramamurthy Nagar,Bangalore,2,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1
+53840,1068,Ramamurthy Nagar,Bangalore,2,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1
+91410,1540,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+95220,1610,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+100000,1715,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+72110,1195,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+85140,1425,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+103000,1760,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+77830,1300,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+74290,1235,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+78099.99,1305,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+35060,660,Electronic City Phase 1,Bangalore,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+62500,1120,Electronic City Phase 1,Bangalore,2,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+62500,1120,Electronic City Phase 1,Bangalore,2,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+37979.99,715,Electronic City Phase 1,Bangalore,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+37979.99,715,Electronic City Phase 1,Bangalore,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+50340,910,Electronic City Phase 1,Bangalore,2,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+50340,910,Electronic City Phase 1,Bangalore,2,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+78970,1430,Electronic City Phase 1,Bangalore,3,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+78970,1430,Electronic City Phase 1,Bangalore,3,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+53270,965,Electronic City Phase 1,Bangalore,2,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+53270,965,Electronic City Phase 1,Bangalore,2,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+82690,1500,Electronic City Phase 1,Bangalore,3,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+82690,1500,Electronic City Phase 1,Bangalore,3,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+59580,1065,Electronic City Phase 1,Bangalore,2,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+59580,1065,Electronic City Phase 1,Bangalore,2,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+69000,1273,Yelahanka,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+97000,1705,Yelahanka,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+73000,1304,Yelahanka,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+91800,1700,Anjanapura,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+69860,1277,Carmelaram,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+60810,1111,Carmelaram,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+78910,1443,Carmelaram,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+60700,1109,Carmelaram,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+59610,1089,Carmelaram,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+84420,1544,Carmelaram,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+90030,1647,Carmelaram,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+59230,1082,Carmelaram,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+61740,1128,Carmelaram,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+59940,1095,Carmelaram,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+81800,1496,Carmelaram,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+76620,1401,Carmelaram,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+87630,1538,Horamavu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+89570,1573,Horamavu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+65810,1181,Horamavu,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+96400,1687,Horamavu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+66640,1196,Horamavu,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+66310,1190,Horamavu,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+100000,1766,Horamavu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+98790,1730,Horamavu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+85290,1532,Horamavu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+72520,1305,Jalahalli,Bangalore,2,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+90370,1645,Jalahalli,Bangalore,3,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+72980,1315,Jalahalli,Bangalore,2,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+104000,1950,Jalahalli,Bangalore,3,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+95200,1750,Jalahalli,Bangalore,3,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+72290,1300,Jalahalli,Bangalore,2,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+98870,1830,Jalahalli,Bangalore,3,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+103000,1935,Jalahalli,Bangalore,3,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+71599.99,1285,Jalahalli,Bangalore,2,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+107000,2010,Jalahalli,Bangalore,3,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+89000,1615,Jalahalli,Bangalore,3,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+93820,1720,Jalahalli,Bangalore,3,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+73440,1325,Jalahalli,Bangalore,2,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+70910,1270,Jalahalli,Bangalore,2,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+62790,1320,Kasavanahalli,Bangalore,3,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+53060,1100,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+66550,1405,Kasavanahalli,Bangalore,3,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+51950,1075,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+54830,1140,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+55270,1150,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+64120,1350,Kasavanahalli,Bangalore,3,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+60360,1265,Kasavanahalli,Bangalore,3,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+49300,1015,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+66110,1395,Kasavanahalli,Bangalore,3,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+51730,1070,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+60580,1270,Kasavanahalli,Bangalore,3,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+62790,1320,Kasavanahalli,Bangalore,3,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+50850,1050,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+64340,1355,Kasavanahalli,Bangalore,3,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+52620,1090,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+66819.99,1485,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+65250,1450,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+69970,1555,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+60970,1355,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+61200,1360,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+61420,1365,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+67270,1495,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+62770,1395,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+67500,1500,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+64569.99,1435,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+52400,1310,Bommasandra,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+41200,1030,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+70120,1275,Bellandur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+81950,1490,Bellandur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+80500,1706,RR Nagar,Bangalore,3,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,1
+59000,1258,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,1
+81000,1723,RR Nagar,Bangalore,3,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,1
+64000,1369,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,1
+62750,1335,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,1
+144000,2000,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1
+137000,1900,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1
+113999.99,1560,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1
+45000,1097,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+52400,1310,Bommasandra,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+41200,1030,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+296000,3300,JP Nagar Phase 1,Bangalore,4,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+89540,1216,Varthur,Bangalore,2,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+88000,1195,Varthur,Bangalore,2,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+154000,2321,Varthur,Bangalore,3,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+110000,1655,Varthur,Bangalore,3,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+91220,2172,Kannur on Thanisandra Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+52670,1505,Uttarahalli,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+35070,1002,Uttarahalli,Bangalore,2,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+48160,1376,Uttarahalli,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+43120,1232,Uttarahalli,Bangalore,2,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+52950,1513,Uttarahalli,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+36960,1056,Uttarahalli,Bangalore,2,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+41400,1183,Uttarahalli,Bangalore,2,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+38320,1095,Uttarahalli,Bangalore,2,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+33770,965,Uttarahalli,Bangalore,2,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+45600,1303,Uttarahalli,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+50150,1433,Uttarahalli,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+37690,1077,Uttarahalli,Bangalore,2,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+34470,985,Uttarahalli,Bangalore,2,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+49560,1416,Uttarahalli,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+53230,1521,Uttarahalli,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+39549.99,1130,Uttarahalli,Bangalore,2,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+34190,977,Uttarahalli,Bangalore,2,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+53510,1529,Uttarahalli,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+44340,1267,Uttarahalli,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1
+78370,1866,Anagalapura Near Hennur Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+98340,2235,Anagalapura Near Hennur Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+82989.99,1976,Anagalapura Near Hennur Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+87280,2182,Anagalapura Near Hennur Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+94530,1725,Hosa Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+150000,1795,Sahakar Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+89000,1000,Sahakar Nagar,Bangalore,1,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+144000,1740,Sahakar Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+127000,1490,Sahakar Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+125000,1320,Sahakar Nagar,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+200999.99,2330,Sahakar Nagar,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+188000,2165,Sahakar Nagar,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+137000,1645,Sahakar Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+189000,1985,Sahakar Nagar,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+85000,1616,Avalahalli Off Sarjapur Road,Bangalore,3,0,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+120000,2225,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,1,1
+90000,1541,Hosa Road,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,1,1
+93000,1515,Varthur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+110000,1690,Uttarahalli,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+120000,2225,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,0,1,1,0,1,0,0,0,1,0,0,1,0,1,1
+180000,1770,Bilekahalli,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+293000,3012,Bilekahalli,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+227999.99,2370,Bilekahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+32000,700,R T  Nagar,Bangalore,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32000,700,R T  Nagar,Bangalore,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110000,1335,JP Nagar Phase 7,Bangalore,2,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1
+98000,1690,Subramanyapura,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+425000,4282,JP Nagar Phase 4,Bangalore,4,1,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+135000,1500,Sahakar Nagar,Bangalore,3,1,1,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+156000,1880,JP Nagar Phase 7,Bangalore,3,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1
+189000,1985,Sahakar Nagar,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+154000,1795,Sahakar Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+123000,1410,Sahakar Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+68459.99,1042,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+91730,1408,JP Nagar Phase 8,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+94710,1455,JP Nagar Phase 8,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+72470,1105,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+55990,1120,Amruthahalli,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+118000,1345,Sahakar Nagar,Bangalore,1,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+48150,1107,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+48800,1122,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+50500,1161,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+46190,1062,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+47850,1100,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+49720,1143,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+47370,1089,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+48540,1116,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+283000,3033,Banashankari,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+214000,2378,Banashankari,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+235000,2522,Banashankari,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+299000,3205,Banashankari,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+92000,1376,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+80000,1168,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+92000,1373,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+80000,1168,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+80000,1168,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+93000,1376,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+79000,1168,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+92000,1376,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+91000,1373,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+90000,1373,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+79000,1168,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+79000,1160,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+80000,1168,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+78000,1160,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+92000,1373,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+91000,1376,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+91000,1373,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+90000,1373,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+79000,1168,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+88000,1373,RR Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+39900,1140,Kengeri,Bangalore,3,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1
+40210,1149,Kengeri,Bangalore,3,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1
+40880,1168,Kengeri,Bangalore,3,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1
+90600,1275,Begur,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+86440,1210,Begur,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+88360,1240,Begur,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+102000,1450,Begur,Bangalore,3,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+85280,1192,Begur,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+85160,1190,Begur,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+88040,1235,Begur,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+99100,1400,Begur,Bangalore,3,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+76340,1606,Ramamurthy Nagar,Bangalore,3,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+59700,1239,Ramamurthy Nagar,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+76750,1615,Ramamurthy Nagar,Bangalore,3,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+57020,1180,Ramamurthy Nagar,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+62100,1292,Ramamurthy Nagar,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+25200,900,Attibele,Bangalore,2,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,1
+33040,1180,Attibele,Bangalore,3,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,1
+30100,1075,Attibele,Bangalore,3,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,1
+28000,1000,Attibele,Bangalore,2,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,1
+24640,880,Attibele,Bangalore,2,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,1
+55570,1185,Kadugodi,Bangalore,2,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+119000,2540,Kadugodi,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+77380,1650,Kadugodi,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+63540,1355,Kadugodi,Bangalore,2,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+28140,600,Kadugodi,Bangalore,1,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+54630,1165,Kadugodi,Bangalore,2,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+74569.99,1590,Kadugodi,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+54160,1155,Kadugodi,Bangalore,2,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+117000,2495,Kadugodi,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+56040,1195,Kadugodi,Bangalore,2,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+71750,1530,Kadugodi,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+75040,1600,Kadugodi,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+56280,1200,Kadugodi,Bangalore,2,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,1
+52000,884,Nagarbhavi,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52000,884,Nagarbhavi,Bangalore,2,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1
+63850,1120,Kodigehalli,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1
+65319.99,1005,Banaswadi,Bangalore,2,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0
+94570,1455,Banaswadi,Bangalore,3,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0
+90350,1390,Banaswadi,Bangalore,3,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0
+66620,1025,Banaswadi,Bangalore,2,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0
+71819.99,1105,Banaswadi,Bangalore,2,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0
+73770,1135,Banaswadi,Bangalore,2,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0
+71250,1425,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,0
+63890,1125,Kodigehalli,Bangalore,2,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,1
+64590,1125,Kodigehalli,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1
+118000,2021,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+115000,1971,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+79200,1354,ITPL,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+107000,1845,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+106000,1823,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+84640,1447,ITPL,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+81840,1399,ITPL,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+101000,1735,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+81780,1398,ITPL,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+112999.99,1940,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+101000,1743,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+82890,1417,ITPL,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+78560,1343,ITPL,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+82540,1411,ITPL,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+78209.99,1337,ITPL,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+117000,2010,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+105000,1797,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+103000,1768,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1
+44550,990,JP Nagar Phase 8,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49050,1090,JP Nagar Phase 8,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55500,1250,Vidyaranyapura,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1
+45000,1012,Vidyaranyapura,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1
+130000,1630,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,0,1,0,1,0,0,1
+55000,1082,Kumbalgodu,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+207000,1987,JP Nagar Phase 7,Bangalore,3,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,1
+39990,1333,Sarjapur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+35220,1174,Sarjapur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+28740,958,Sarjapur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+36820,1473,Attibele,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+34270,1371,Attibele,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+39320,1573,Attibele,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+38220,1529,Attibele,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+24870,995,Attibele,Bangalore,2,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+55800,1240,JP Nagar Phase 8,Bangalore,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51300,1140,JP Nagar Phase 8,Bangalore,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49100,884,Nagarbhavi,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49100,884,Nagarbhavi,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43420,1241,Electronic City Phase 1,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+33380,954,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+25780,737,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+34150,976,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+31140,890,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+28790,823,Electronic City Phase 1,Bangalore,2,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+44850,1282,Electronic City Phase 1,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+31240,893,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+47130,1347,Electronic City Phase 1,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+45170,1291,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+47340,1353,Electronic City Phase 1,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+31590,903,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+42190,1206,Electronic City Phase 1,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+47340,1353,Electronic City Phase 1,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+25780,743,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+36450,1042,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+43420,1241,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+22530,644,Electronic City Phase 1,Bangalore,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+28930,827,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+26140,747,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+105000,2000,Nagarbhavi,Bangalore,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+48670,1352,Electronic City Phase 1,Bangalore,3,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1
+47350,1352,Electronic City Phase 1,Bangalore,3,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+26530,737,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+28620,795,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+33390,954,Electronic City Phase 1,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29620,823,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1
+28800,823,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1
+23180,644,Electronic City Phase 1,Bangalore,1,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+22540,644,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1
+22540,644,Electronic City Phase 1,Bangalore,1,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1
+29730,826,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1
+48700,1353,Electronic City Phase 1,Bangalore,3,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+27810,795,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+47130,1347,Electronic City Phase 1,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+26130,747,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+45620,1304,Electronic City Phase 1,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+47830,1367,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+43420,1241,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+28790,823,Electronic City Phase 1,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+50450,1370,Electronic City Phase 2,Bangalore,3,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+43620,1175,Electronic City Phase 2,Bangalore,2,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+55000,1500,Electronic City Phase 2,Bangalore,3,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+45650,1233,Electronic City Phase 2,Bangalore,2,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+40000,1100,Electronic City Phase 2,Bangalore,2,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+48000,1300,Electronic City Phase 2,Bangalore,3,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+44850,1210,Electronic City Phase 2,Bangalore,2,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+40119.99,1075,Electronic City Phase 2,Bangalore,2,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+45200,1220,Electronic City Phase 2,Bangalore,2,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+42920,1155,Electronic City Phase 2,Bangalore,2,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+47300,1280,Electronic City Phase 2,Bangalore,3,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+49750,1350,Electronic City Phase 2,Bangalore,3,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+49050,1330,Electronic City Phase 2,Bangalore,3,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+42220,1135,Electronic City Phase 2,Bangalore,2,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+39950,1070,Electronic City Phase 2,Bangalore,2,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+80760,2019,Kannur on Thanisandra Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+47000,1005,Nagarbhavi,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35790,1193,Sarjapur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+33720,1124,Sarjapur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+29220,974,Sarjapur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+28440,948,Sarjapur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+29010,967,Sarjapur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+28200,940,Sarjapur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+44580,1486,Sarjapur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+34830,1161,Sarjapur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+36990,1233,Sarjapur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+39060,1302,Sarjapur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+28890,963,Sarjapur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+34290,1143,Sarjapur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+41640,1388,Sarjapur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+33840,1128,Sarjapur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+29350,1174,Attibele,Bangalore,2,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+40970,1639,Attibele,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+32020,1281,Attibele,Bangalore,2,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+28670,1147,Attibele,Bangalore,2,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+34119.99,1365,Attibele,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+24360,870,Bommasandra,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+28000,1000,Bommasandra,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+30100,1075,Chandapura,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+25200,900,Chandapura,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+30380,1085,Chandapura,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+30100,1075,Attibele,Bangalore,3,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,1
+31770,710,Ramamurthy Nagar,Bangalore,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+106000,2674,Kannur on Thanisandra Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+72000,1195,Bellandur,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,1,1
+204000,2360,Thanisandra,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+176000,2307,Thanisandra,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+202000,2127,JP Nagar Phase 7,Bangalore,3,0,0,1,1,1,0,1,1,0,1,1,0,1,0,0,1
+102000,1232,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+40020,1040,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+45680,1187,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+40560,1054,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+43030,1118,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+42990,1117,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+45410,1180,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+42100,1094,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+41950,1090,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+42260,1098,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+46380,1205,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+46990,1221,Krishnarajapura,Bangalore,3,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+44260,1150,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+39250,1020,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+43450,1129,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+40869.99,1062,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+40760,1059,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+40720,1058,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+46140,1199,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+40540,1448,Jigani,Bangalore,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+35000,1250,Jigani,Bangalore,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+41659.99,1488,Jigani,Bangalore,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+30680,1096,Jigani,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+41740,1491,Jigani,Bangalore,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+30520,1090,Jigani,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+30850,1102,Jigani,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+32640,1166,Jigani,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+25760,920,Jigani,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+31970,1142,Jigani,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+43420,1551,Jigani,Bangalore,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+31780,1135,Jigani,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+39130,1505,Marsur,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,1,0,0,1
+35619.99,1370,Marsur,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,1,0,0,1
+42920,1533,Jigani,Bangalore,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+28990,1115,Marsur,Bangalore,2,0,0,1,1,1,1,0,1,0,1,0,0,1,0,0,1
+29250,1125,Marsur,Bangalore,2,0,0,1,1,1,1,0,1,0,1,0,0,1,0,0,1
+29840,1066,Jigani,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1
+38090,1465,Marsur,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,1,0,0,1
+66980,1675,Krishnarajapura,Bangalore,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+49580,1240,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+49580,1240,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+48780,1220,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+48780,1220,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+48980,1225,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+48980,1225,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+50780,1270,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+50780,1270,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+45000,1075,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,1
+30100,1075,Attibele,Bangalore,3,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+24360,870,Attibele,Bangalore,2,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+28000,1000,Attibele,Bangalore,2,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+33880,1210,Attibele,Bangalore,3,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+25200,900,Attibele,Bangalore,2,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+30380,1085,Attibele,Bangalore,2,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+24640,880,Attibele,Bangalore,2,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+45000,1075,Kasavanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,1
+57970,1414,Anagalapura Near Hennur Main Road,Bangalore,3,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+49280,1120,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+41470,1185,Bommasandra,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+44000,1000,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+72110,1373,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+59100,1109,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+74230,1415,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+92270,1782,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+72630,1383,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+64940,1227,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+84580,1626,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+90940,1755,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+78470,1502,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+65209.99,1233,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+71840,1367,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+58580,1098,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+76890,1470,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+64150,1211,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+57520,1077,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+63880,1206,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+70780,1346,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+58040,1087,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+112000,2185,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+76080,1453,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+63610,1200,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+81920,1572,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+62550,1179,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+88300,1701,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+95170,1841,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+75560,1443,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+75540,1442,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+62280,1173,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+75810,1448,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+108000,2121,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+62030,1168,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+73980,1411,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+60700,1141,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+67330,1276,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+61250,1152,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+80860,1550,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+72900,1389,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+66540,1260,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+79800,1529,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+73220,1395,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+60430,1136,JP Nagar Phase 3,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+67060,1270,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+73420,1399,JP Nagar Phase 3,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+78000,1650,Vidyaranyapura,Bangalore,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+68000,1500,Vidyaranyapura,Bangalore,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+44550,1100,Anagalapura Near Hennur Main Road,Bangalore,2,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1
+41000,1000,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+57000,1140,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+60000,1220,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+57550,1150,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+66950,1350,Begur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+58960,1180,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+56000,1130,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+58000,1160,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+65770,1325,Begur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+54730,1090,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+58490,1170,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+58250,1165,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+44890,1095,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+58000,1160,Begur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+169000,1810,Kodigehalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+149000,1740,Kodigehalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+141000,1630,Kodigehalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+121000,1440,Kodigehalli,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+107000,1245,Kodigehalli,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+48310,1098,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+36320,1215,Narayanaghatta,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+29600,990,Narayanaghatta,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+33630,1125,Narayanaghatta,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1
+30870,950,Anekal City,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,1,0,1,1
+39810,1225,Anekal City,Bangalore,3,0,0,1,1,1,1,1,0,0,1,0,0,1,0,1,1
+33310,1025,Anekal City,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,1,0,1,1
+20960,645,Anekal City,Bangalore,1,0,0,1,1,1,1,1,0,0,1,0,0,1,0,1,1
+82180,1505,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+83709.99,1535,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+80390,1470,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+58680,1045,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+60210,1075,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+71940,1290,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+75810,1380,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+81370,1465,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+280000,2790,Sahakar Nagar,Bangalore,4,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+130000,1320,Sahakar Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+260000,3300,Narayanapura on Hennur Main Road,Bangalore,4,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1
+105000,1500,Narayanapura on Hennur Main Road,Bangalore,3,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1
+115000,2087,Narayanapura on Hennur Main Road,Bangalore,3,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1
+125000,2142,Narayanapura on Hennur Main Road,Bangalore,3,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1
+110000,1850,Narayanapura on Hennur Main Road,Bangalore,3,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1
+120000,1930,Narayanapura on Hennur Main Road,Bangalore,3,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1
+28000,1000,Attibele,Bangalore,1,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+44070,1075,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+44070,1075,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+140000,2170,Junnasandra,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+109000,1691,Junnasandra,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+43250,1055,Anagalapura Near Hennur Main Road,Bangalore,2,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1
+44890,1095,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+299000,3205,Banashankari,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+283000,3033,Banashankari,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+235000,2522,Banashankari,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+231000,2480,Banashankari,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+214000,2378,Banashankari,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+78300,1800,JP Nagar Phase 9,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+59680,1372,JP Nagar Phase 9,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+60850,1242,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+54390,1110,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+67620,1380,JP Nagar Phase 8,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+54880,1120,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+54780,1118,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+74380,1518,JP Nagar Phase 8,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+67910,1386,JP Nagar Phase 8,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+59970,1224,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+66540,1358,JP Nagar Phase 8,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+59870,1222,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+70069.99,1430,JP Nagar Phase 8,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+35670,728,JP Nagar Phase 8,Bangalore,1,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+60510,1235,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+70260,1434,JP Nagar Phase 8,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+59380,1212,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+62370,1273,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+59780,1220,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+56200,1147,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+61490,1255,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+71930,1468,JP Nagar Phase 8,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+61930,1264,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+93690,1735,Anjanapura,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+80730,1495,Anjanapura,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+91800,1700,Anjanapura,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+70280,1440,Gottigere,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+61480,1245,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+73440,1510,Gottigere,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+64190,1305,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+55840,1120,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+63740,1295,Gottigere,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+60580,1225,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+69830,1430,Gottigere,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+63960,1300,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+71630,1470,Gottigere,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+62830,1275,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+68930,1410,Gottigere,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+56740,1140,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+69150,1415,Gottigere,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+70959.99,1455,Gottigere,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+73890,1520,Gottigere,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+62160,1260,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+74120,1525,Gottigere,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+56060,1125,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+61930,1255,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+56510,1135,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+355000,2936,Electronic City Phase 1,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+113999.99,1597,Hosa Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+108000,1514,Hosa Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+102000,1431,Hosa Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+98000,1365,Hosa Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+79000,1205,Varthur,Bangalore,2,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1,1
+65700,1007,Varthur,Bangalore,2,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1,1
+227999.99,2243,Uttarahalli,Bangalore,3,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+212000,2051,Uttarahalli,Bangalore,3,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+72000,1350,Budigere Cross,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,1
+65000,1225,Budigere Cross,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,1
+62000,1165,Budigere Cross,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,1
+47320,1315,Sarjapur,Bangalore,3,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1
+47500,1320,Sarjapur,Bangalore,2,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1
+44980,1250,Sarjapur,Bangalore,2,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1
+48700,1290,Sarjapur,Bangalore,3,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1
+46420,1290,Sarjapur,Bangalore,2,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1
+49120,1365,Sarjapur,Bangalore,3,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1
+53980,1500,Sarjapur,Bangalore,3,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1
+43180,1200,Sarjapur,Bangalore,2,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1
+30100,1075,Attibele,Bangalore,3,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+24360,870,Attibele,Bangalore,2,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+28000,1000,Attibele,Bangalore,2,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+33880,1210,Attibele,Bangalore,3,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+25200,900,Attibele,Bangalore,2,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+108000,1745,Begur,Bangalore,3,0,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1
+88680,1417,Begur,Bangalore,2,0,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1
+113999.99,1814,Begur,Bangalore,3,0,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1
+93660,1503,Begur,Bangalore,2,0,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1
+112000,1814,JP Nagar Phase 9,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+98880,1595,JP Nagar Phase 9,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+108000,1759,JP Nagar Phase 9,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+255000,1839,Koramangala,Bangalore,3,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+340000,2461,Koramangala,Bangalore,4,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+175000,1249,Koramangala,Bangalore,2,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+345000,2503,Koramangala,Bangalore,4,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+195000,1385,Koramangala,Bangalore,2,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+71000,1286,Nelamangala,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+64000,1163,Nelamangala,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+55000,966,Nelamangala,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+43000,814,Nelamangala,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+38000,708,Nelamangala,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+260000,3360,ITPL,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+186000,2210,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+173000,1930,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+171000,1890,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+118000,1330,ITPL,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+73410,1635,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+63980,1425,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+58370,1300,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+45120,1005,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+669000,4600,Hebbal,Bangalore,4,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+1706000,8331,Hebbal,Bangalore,5,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+1823000,8902,Hebbal,Bangalore,5,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+743000,5112,Hebbal,Bangalore,5,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+601000,6500,Hebbal,Bangalore,4,0,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0
+360000,3900,Hebbal,Bangalore,4,0,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0
+360000,3895,Hebbal,Bangalore,4,0,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0
+522000,5654,Hebbal,Bangalore,4,0,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0
+508000,5500,Hebbal,Bangalore,4,0,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0
+496000,4622,JP Nagar Phase 4,Bangalore,4,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+464000,4322,JP Nagar Phase 4,Bangalore,4,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+640000,4400,Hebbal,Bangalore,4,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+611000,4200,Hebbal,Bangalore,3,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+1986000,9700,Hebbal,Bangalore,5,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+534000,3670,Hebbal,Bangalore,3,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+2027000,9900,Hebbal,Bangalore,5,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+1700000,8300,Hebbal,Bangalore,5,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+1577000,7700,Hebbal,Bangalore,4,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+567000,3897,Hebbal,Bangalore,3,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+65940,1570,Electronic City Phase 1,Bangalore,3,0,0,1,1,1,0,1,1,0,1,0,0,1,0,1,1
+59220,1410,Electronic City Phase 1,Bangalore,3,0,0,1,1,1,0,1,1,0,1,0,0,1,0,1,1
+66360,1580,Electronic City Phase 1,Bangalore,3,0,0,1,1,1,0,1,1,0,1,0,0,1,0,1,1
+67620,1610,Electronic City Phase 1,Bangalore,3,0,0,1,1,1,0,1,1,0,1,0,0,1,0,1,1
+50190,1195,Electronic City Phase 1,Bangalore,2,0,0,1,1,1,0,1,1,0,1,0,0,1,0,1,1
+66780,1590,Electronic City Phase 1,Bangalore,3,0,0,1,1,1,0,1,1,0,1,0,0,1,0,1,1
+67200,1600,Electronic City Phase 1,Bangalore,3,0,0,1,1,1,0,1,1,0,1,0,0,1,0,1,1
+50400,1200,Electronic City Phase 1,Bangalore,2,0,0,1,1,1,0,1,1,0,1,0,0,1,0,1,1
+65730,1565,Electronic City Phase 1,Bangalore,3,0,0,1,1,1,0,1,1,0,1,0,0,1,0,1,1
+83530,1638,Nagarbhavi,Bangalore,3,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+80780,1584,Nagarbhavi,Bangalore,3,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+65680,1288,Nagarbhavi,Bangalore,2,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+77569.99,1521,Nagarbhavi,Bangalore,3,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+72520,1422,Nagarbhavi,Bangalore,3,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+69709.99,1367,Nagarbhavi,Bangalore,3,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+87490,1839,Talaghattapura,Bangalore,3,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0
+68700,1419,Talaghattapura,Bangalore,2,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0
+82430,1726,Talaghattapura,Bangalore,3,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0
+195000,2597,Harlur,Bangalore,4,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+63310,1447,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1
+185000,2569,Harlur,Bangalore,4,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+97300,2219,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1
+66410,1525,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1
+75209.99,1727,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1
+111000,1274,Konanakunte,Bangalore,2,0,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+142000,1588,Konanakunte,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+57390,1300,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1
+105000,1204,Konanakunte,Bangalore,2,0,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+66670,1531,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1
+191000,2140,Konanakunte,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+71770,1375,Anjanapura,Bangalore,2,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+68319.99,1309,Anjanapura,Bangalore,2,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+61380,1176,Anjanapura,Bangalore,2,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+71510,1370,Anjanapura,Bangalore,2,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+96200,1843,Anjanapura,Bangalore,3,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+68900,1320,Anjanapura,Bangalore,2,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+96100,1841,Anjanapura,Bangalore,3,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+101000,1950,Anjanapura,Bangalore,3,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+81370,1559,Anjanapura,Bangalore,3,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+87490,1839,Talaghattapura,Bangalore,3,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0
+78190,1498,Anjanapura,Bangalore,3,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+68700,1419,Talaghattapura,Bangalore,2,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0
+93960,1800,Anjanapura,Bangalore,3,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+82430,1726,Talaghattapura,Bangalore,3,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0
+87120,1669,Anjanapura,Bangalore,3,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+69940,1340,Anjanapura,Bangalore,2,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+69890,1339,Anjanapura,Bangalore,2,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+86490,1657,Anjanapura,Bangalore,3,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+97090,1860,Anjanapura,Bangalore,3,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+86650,1660,Anjanapura,Bangalore,3,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+93850,1798,Anjanapura,Bangalore,3,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+69530,1332,Anjanapura,Bangalore,2,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+86910,1665,Anjanapura,Bangalore,3,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+51020,1179,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0
+51370,1188,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0
+52440,1215,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0
+52790,1224,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0
+57000,1414,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+50700,935,Budigere Cross,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+61830,1350,Budigere Cross,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+61830,1350,Budigere Cross,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+56100,1225,Budigere Cross,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+56100,1225,Budigere Cross,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+54130,1030,Kumbalgodu,Bangalore,2,0,0,1,1,1,0,1,1,0,1,1,0,1,0,1,1
+109000,905,Chikkagubbi on Hennur Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+105000,972,Chikkagubbi on Hennur Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+95000,1270,Harlur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+125000,1550,Harlur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+120000,1550,Harlur,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+104000,1460,Harlur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+135000,1830,Harlur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+34470,985,Bommasandra,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+57970,1414,Anagalapura Near Hennur Main Road,Bangalore,3,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+82160,1467,Harlur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,1
+116000,2067,Harlur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,1
+101000,1808,Harlur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,1
+88640,1085,Harlur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,1
+80190,1050,Harlur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,1
+640000,2772,Richmond Town,Bangalore,3,0,0,1,1,1,0,0,1,0,1,1,1,1,0,1,1
+46110,1048,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+62210,1428,Varthur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+53800,1255,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+76319.99,1482,Jakkur,Bangalore,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+66120,1284,Jakkur,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+54430,1057,Jakkur,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+180000,1800,Jayanagar,Bangalore,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+62000,1400,Subramanyapura,Bangalore,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+359000,1998,Domlur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+249000,1388,Domlur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+269000,1498,Domlur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+194000,1078,Domlur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+80000,1265,Electronic City Phase 1,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+274000,2187,Bellandur,Bangalore,4,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+150000,1196,Bellandur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+82000,1600,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,0,1,1,1,0,1,0,1,1
+75000,1480,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,0,1,1,1,0,1,0,1,1
+65000,1172,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,1,1,0,0,1,1,1,0,1,0,1,1
+60000,1135,Chikkalasandra,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+90000,1885,Yelahanka,Bangalore,3,0,0,1,1,0,0,1,0,0,1,1,0,1,0,0,1
+69000,1440,Yelahanka,Bangalore,3,0,0,1,1,0,0,1,0,0,1,1,0,1,0,0,1
+69500,1392,Avalahalli Off Sarjapur Road,Bangalore,2,0,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1
+67110,1320,Avalahalli Off Sarjapur Road,Bangalore,3,0,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1
+42090,771,Avalahalli Off Sarjapur Road,Bangalore,1,0,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1
+54780,1128,Avalahalli Off Sarjapur Road,Bangalore,2,0,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1
+32670,568,Avalahalli Off Sarjapur Road,Bangalore,1,0,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1
+111000,2221,Avalahalli Off Sarjapur Road,Bangalore,4,0,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1
+67310,1268,Avalahalli Off Sarjapur Road,Bangalore,2,0,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1
+63850,1272,Avalahalli Off Sarjapur Road,Bangalore,2,0,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1
+108000,2147,Avalahalli Off Sarjapur Road,Bangalore,4,0,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1
+92780,1275,Bommanahalli,Bangalore,2,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+98590,1360,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+148000,2616,Devanahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+74000,1323,Devanahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+72000,1207,Devanahalli,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+45000,792,Devanahalli,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+45530,800,Devanahalli,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+215000,2976,Hulimavu,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1
+213000,2916,Hulimavu,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1
+162000,2254,Hulimavu,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1
+160000,2212,Hulimavu,Bangalore,3,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1
+160000,2212,Hulimavu,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1
+45180,795,Devanahalli,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+288000,3963,Hulimavu,Bangalore,4,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1
+285000,3891,Hulimavu,Bangalore,4,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1
+112999.99,2180,Begur,Bangalore,4,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+112999.99,2180,Begur,Bangalore,4,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+95160,1830,Begur,Bangalore,4,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+101000,1960,Begur,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+73319.99,1410,Begur,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+98020,1885,Begur,Bangalore,2,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+65260,1255,Begur,Bangalore,2,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+65260,1255,Begur,Bangalore,2,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+110000,1805,Begur,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+110000,1805,Begur,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+72000,1207,Devanahalli,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,1,0,0,1,1
+61000,1043,Devanahalli,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+243000,2563,JP Nagar Phase 4,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+241000,2536,JP Nagar Phase 4,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+236000,2482,JP Nagar Phase 4,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+116000,1615,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+209000,2200,JP Nagar Phase 4,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+412000,4336,JP Nagar Phase 4,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+405999.99,4273,JP Nagar Phase 4,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+384000,4046,JP Nagar Phase 4,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+338000,3563,JP Nagar Phase 4,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+329000,3463,JP Nagar Phase 4,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+257000,2700,JP Nagar Phase 4,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+92780,1275,Bommanahalli,Bangalore,2,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+72000,1098,Devanahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+281000,3832,Hulimavu,Bangalore,4,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1
+215000,2893,Hulimavu,Bangalore,4,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1
+136000,1939,Hebbal,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+113999.99,1628,Hebbal,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+215000,2893,Hulimavu,Bangalore,4,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1
+210000,2825,Hulimavu,Bangalore,4,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1
+220000,3044,Hulimavu,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1
+116000,1615,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+209000,2200,JP Nagar Phase 4,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+115000,1476,Begur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+125000,1527,Begur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+105000,1265,Begur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+109000,1515,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+60000,940,Devanahalli,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+281000,3832,Hulimavu,Bangalore,4,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1
+215000,2893,Hulimavu,Bangalore,4,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1
+50000,1090,Devanahalli,Bangalore,1,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+48000,1020,Devanahalli,Bangalore,1,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+232000,2437,JP Nagar Phase 4,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+118000,1687,Hebbal,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+120000,1712,Hebbal,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+127000,1812,Hebbal,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+134000,1911,Hebbal,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+389000,3870,Hebbal,Bangalore,4,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,0
+60000,1135,Kumaraswamy Layout,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+53670,1020,Kumbalgodu,Bangalore,2,0,0,1,1,1,0,1,1,0,1,1,0,1,0,1,1
+52060,985,Kumbalgodu,Bangalore,2,0,0,1,1,1,0,1,1,0,1,1,0,1,0,1,1
+51830,980,Kumbalgodu,Bangalore,2,0,0,1,1,1,0,1,1,0,1,1,0,1,0,1,1
+97000,1555,Electronic City Phase 1,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+93000,1482,Electronic City Phase 1,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+318000,2540,Bellandur,Bangalore,4,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+77060,1376,Harlur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,1
+123000,2202,Harlur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,1
+94000,1530,Budigere Cross,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+86000,1404,Budigere Cross,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+72000,1157,Budigere Cross,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+98000,1565,Electronic City Phase 1,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+79000,1255,Electronic City Phase 1,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+68000,1305,Bikasipura,Bangalore,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+72000,1395,Bikasipura,Bangalore,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+72000,1395,Uttarahalli Hobli,Bangalore,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+43400,1240,Singasandra,Bangalore,2,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+41470,1185,Singasandra,Bangalore,2,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+39200,1120,Singasandra,Bangalore,2,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+29400,840,Singasandra,Bangalore,2,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+46020,1315,Singasandra,Bangalore,2,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+45320,1295,Singasandra,Bangalore,2,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+43220,1235,Singasandra,Bangalore,2,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+26600,760,Singasandra,Bangalore,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+56170,1605,Singasandra,Bangalore,3,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+32200,920,Singasandra,Bangalore,2,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+23100,660,Singasandra,Bangalore,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+42700,1220,Singasandra,Bangalore,2,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+28350,810,Singasandra,Bangalore,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1
+42720,1000,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+42720,1055,Anagalapura Near Hennur Main Road,Bangalore,2,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1
+41000,1000,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+73200,1395,Kumaraswamy Layout,Bangalore,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+71500,1395,Kumaraswamy Layout,Bangalore,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+67000,1305,Kumaraswamy Layout,Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+71500,1395,Kumaraswamy Layout,Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+71500,1395,Kumaraswamy Layout,Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+68500,1305,Chikkalasandra,Bangalore,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+73000,1395,Kumaraswamy Layout,Bangalore,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+68000,1305,Kumaraswamy Layout,Bangalore,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+71000,1340,Kumaraswamy Layout,Bangalore,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+68000,1290,Kumaraswamy Layout,Bangalore,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+71000,1395,Kumaraswamy Layout,Bangalore,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+34470,985,Bommasandra,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+44890,1095,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+44890,1095,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+44550,1100,Anagalapura Near Hennur Main Road,Bangalore,2,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1
+44070,1075,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+44550,1100,Anagalapura Near Hennur Main Road,Bangalore,2,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1
+44550,1100,Anagalapura Near Hennur Main Road,Bangalore,2,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1
+44070,1075,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+44070,1075,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+613000,5600,JP Nagar Phase 6,Bangalore,4,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+575000,5249,JP Nagar Phase 6,Bangalore,4,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+487000,4449,JP Nagar Phase 6,Bangalore,4,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+309000,3103,JP Nagar Phase 6,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+306000,3077,JP Nagar Phase 6,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+270000,2711,JP Nagar Phase 6,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+266000,2671,JP Nagar Phase 6,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+39110,954,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+44950,1110,Anagalapura Near Hennur Main Road,Bangalore,2,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1
+55500,1250,Vidyaranyapura,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1
+45000,1012,Vidyaranyapura,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1
+254000,1839,Koramangala,Bangalore,3,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1,1
+193000,1385,Koramangala,Bangalore,2,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1,1
+138999.99,1623,Sanjaynagar,Bangalore,3,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+296000,4237,Yelahanka,Bangalore,4,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+195000,2795,Yelahanka,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+75000,1273,Yelahanka,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+339000,2461,Koramangala,Bangalore,4,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1,1
+254000,1839,Koramangala,Bangalore,3,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+174000,1249,Koramangala,Bangalore,2,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1,1
+118000,1378,Sanjaynagar,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+100000,1169,Sanjaynagar,Bangalore,2,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+218000,3122,Yelahanka,Bangalore,4,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+99000,1705,Yelahanka,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+41000,1000,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+57190,1271,Harlur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+42720,1055,Anagalapura Near Hennur Main Road,Bangalore,2,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1
+57970,1414,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+44550,1100,Anagalapura Near Hennur Main Road,Bangalore,1,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1
+143000,1788,CV Raman Nagar,Bangalore,3,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+54800,1370,Varthur,Bangalore,3,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+45560,1139,Varthur,Bangalore,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+46160,1154,Varthur,Bangalore,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+48960,1224,Varthur,Bangalore,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+46560,1164,Varthur,Bangalore,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+57190,1271,Harlur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1
+42120,1040,Anagalapura Near Hennur Main Road,Bangalore,2,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1
+44070,1075,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+91000,1485,Subramanyapura,Bangalore,3,0,0,1,1,1,1,0,1,0,1,1,0,1,0,0,1
+84000,1300,Subramanyapura,Bangalore,2,0,0,1,1,1,1,0,1,0,1,1,0,1,0,0,1
+71000,1135,Subramanyapura,Bangalore,2,0,0,1,1,1,1,0,1,0,1,1,0,1,0,0,1
+61000,960,Subramanyapura,Bangalore,2,0,0,1,1,1,1,0,1,0,1,1,0,1,0,0,1
+231000,3245,Electronic City Phase 2,Bangalore,4,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+137000,2150,Electronic City Phase 2,Bangalore,4,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+110000,1590,Electronic City Phase 2,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+103000,1500,Electronic City Phase 2,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+95000,1415,Electronic City Phase 2,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+400000,2942,Harlur,Bangalore,4,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,1
+250000,2368,Harlur,Bangalore,4,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,1
+200000,1946,Harlur,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,1
+177000,1752,Harlur,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,1
+144000,1483,Harlur,Bangalore,2,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,1
+370000,3729,Hebbal,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+310000,2927,Hebbal,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+73000,1463,JP Nagar Phase 7,Bangalore,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+55000,1150,Padmanabhanagar,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+72239.99,1720,Begur,Bangalore,3,0,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1
+55520,1322,Begur,Bangalore,2,0,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1
+51660,1230,Begur,Bangalore,2,0,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1
+146000,1836,CV Raman Nagar,Bangalore,3,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+142000,1778,CV Raman Nagar,Bangalore,3,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+158000,1980,CV Raman Nagar,Bangalore,3,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+56400,705,CV Raman Nagar,Bangalore,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+111000,1392,CV Raman Nagar,Bangalore,2,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+146000,1825,CV Raman Nagar,Bangalore,3,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+132000,1659,CV Raman Nagar,Bangalore,3,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+106000,1596,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,0,1
+106000,1574,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,0,1
+82000,1173,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,0,1
+105000,1561,Hennur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+98000,1450,Hennur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+81000,1180,Hennur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+81000,1180,Hennur,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294000,3112,JP Nagar Phase 7,Bangalore,4,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+230000,2370,JP Nagar Phase 7,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+230000,2370,JP Nagar Phase 7,Bangalore,3,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1
+230000,2370,JP Nagar Phase 7,Bangalore,3,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1
+45570,1085,Krishnarajapura,Bangalore,2,0,0,0,0,1,1,1,0,0,1,0,0,0,0,1,1
+42420,1010,Krishnarajapura,Bangalore,2,0,0,0,0,1,1,1,0,0,1,0,0,0,0,1,1
+46200,1100,Krishnarajapura,Bangalore,2,0,0,0,0,1,1,1,0,0,1,0,0,0,0,1,1
+57190,1271,Harlur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+72420,1541,Harlur,Bangalore,3,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1
+65090,1385,Harlur,Bangalore,2,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1
+68190,1451,Harlur,Bangalore,3,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1
+66690,1419,Harlur,Bangalore,3,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1
+57010,1213,Harlur,Bangalore,2,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1
+59640,1269,Harlur,Bangalore,2,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1
+55030,1171,Harlur,Bangalore,2,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1
+56250,1197,Harlur,Bangalore,2,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1
+44890,1095,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+49950,1100,Varthur,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49950,1100,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+41000,1000,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+57970,1414,Anagalapura Near Hennur Main Road,Bangalore,3,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+44070,1075,Anagalapura Near Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+42940,976,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+42120,1040,Anagalapura Near Hennur Main Road,Bangalore,2,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1
+44550,1055,Anagalapura Near Hennur Main Road,Bangalore,2,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1
+45900,1080,Whitefield Hope Farm Junction,Bangalore,2,0,0,0,1,1,0,1,1,0,1,0,0,1,0,1,1
+47380,1115,Whitefield Hope Farm Junction,Bangalore,2,0,0,0,1,1,0,1,1,0,1,0,0,1,0,1,1
+46530,1095,Whitefield Hope Farm Junction,Bangalore,2,0,0,0,1,1,0,1,1,0,1,0,0,1,0,1,1
+47810,1125,Whitefield Hope Farm Junction,Bangalore,2,0,0,0,1,1,0,1,1,0,1,0,0,1,0,1,1
+45050,1060,Whitefield Hope Farm Junction,Bangalore,2,0,0,0,1,1,0,1,1,0,1,0,0,1,0,1,1
+46320,1090,Whitefield Hope Farm Junction,Bangalore,2,0,0,0,1,1,0,1,1,0,1,0,0,1,0,1,1
+51000,1200,Whitefield Hope Farm Junction,Bangalore,2,0,0,0,1,1,0,1,1,0,1,0,0,1,0,1,1
+134000,1800,KPC Layout,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,1,1
+156000,2170,KPC Layout,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,1,1
+122000,1691,KPC Layout,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,1,1
+157000,1800,Hebbal,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+141000,1682,Hebbal,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+75000,1239,Kannur on Thanisandra Main Road,Bangalore,2,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+92000,1270,Harlur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+132000,1880,Harlur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+104000,1460,Harlur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+73000,1395,Kumaraswamy Layout,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66550,1305,Kumaraswamy Layout,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71000,1395,Kumaraswamy Layout,Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+67000,1305,Kumaraswamy Layout,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71000,1395,Subramanyapura,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71000,1395,Kumaraswamy Layout,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67989.99,1290,Kumaraswamy Layout,Bangalore,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+72980,1395,Kumaraswamy Layout,Bangalore,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+320000,3103,JP Nagar Phase 6,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+41600,1000,RR Nagar,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+52280,1275,RR Nagar,Bangalore,3,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+43730,1055,RR Nagar,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+53060,1295,RR Nagar,Bangalore,3,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+44310,1070,RR Nagar,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+93000,1296,Talaghattapura,Bangalore,2,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,1
+124000,1706,Talaghattapura,Bangalore,3,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,1
+115000,1592,Talaghattapura,Bangalore,3,0,0,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+148000,1785,R.K. Hegde Nagar,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+75000,1245,R.K. Hegde Nagar,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+75000,1239,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+145000,1800,Hebbal,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+141000,1682,Hebbal,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+102000,1309,Hebbal,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+115000,1682,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+92000,1232,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+110000,1482,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+127000,1917,KPC Layout,Bangalore,3,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,1
+127000,1917,KPC Layout,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,1,1
+147000,2170,KPC Layout,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,1,1
+134000,2035,KPC Layout,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,1,1
+130000,2313,KPC Layout,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,1,1
+690000,1438,Begur,Bangalore,3,0,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+64170,1337,Begur,Bangalore,3,0,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+45690,952,Begur,Bangalore,2,0,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+64599.99,1346,Begur,Bangalore,3,0,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+66569.99,1387,Begur,Bangalore,3,0,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+65230,1359,Begur,Bangalore,3,0,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+62300,1298,Begur,Bangalore,3,0,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+49720,1036,Begur,Bangalore,2,0,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+47850,997,Begur,Bangalore,2,0,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+67200,1400,Begur,Bangalore,3,0,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+137000,2424,Begur,Bangalore,4,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,1
+92400,1653,Begur,Bangalore,3,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,1
+71800,1235,Begur,Bangalore,2,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,1
+39400,644,Begur,Bangalore,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+68780,1600,Krishnarajapura,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+45990,1070,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+150000,2134,Varthur,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+65330,1110,Varthur,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+56740,1320,Krishnarajapura,Bangalore,2,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+74670,1345,Varthur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+110000,1655,Varthur,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+38000,1000,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35720,940,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38760,1020,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40990,1015,Bommasandra,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110000,1655,Varthur,Bangalore,3,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+33040,1180,Attibele,Bangalore,3,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+30380,1085,Attibele,Bangalore,2,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+24640,880,Attibele,Bangalore,2,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1
+188000,2165,Sahakar Nagar,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+150000,1795,Sahakar Nagar,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+580999.99,5249,JP Nagar Phase 6,Bangalore,4,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+56000,1500,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+54510,1608,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53800,1255,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53560,1580,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53800,1255,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+45000,1300,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53220,1570,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53800,1255,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53220,1570,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+55300,1580,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+51480,1304,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+52000,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53810,1303,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+51480,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44330,1304,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+127000,1490,Sahakar Nagar,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+355000,2742,CV Raman Nagar,Bangalore,4,0,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1
+500000,4689,Uttarahalli,Bangalore,4,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+227999.99,2243,Uttarahalli,Bangalore,3,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+212000,2051,Uttarahalli,Bangalore,3,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+29200,677,Begur,Bangalore,1,0,0,1,1,1,0,0,1,0,1,1,0,1,0,0,1
+21570,525,Begur,Bangalore,1,0,0,1,1,1,0,0,1,0,1,1,0,1,0,0,1
+352000,2672,CV Raman Nagar,Bangalore,3,0,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1
+95000,1380,Thanisandra,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,0,1
+68000,985,Thanisandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,0,1
+67980,1533,Devanahalli,Bangalore,3,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,1
+61720,1384,Devanahalli,Bangalore,3,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,1
+53410,1186,Devanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,1
+49380,1090,Devanahalli,Bangalore,2,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,1
+36190,776,Devanahalli,Bangalore,1,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,1
+33729.99,711,Devanahalli,Bangalore,1,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,1
+86730,1599,Yelahanka,Bangalore,3,0,0,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+74560,1365,Yelahanka,Bangalore,3,0,0,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+66870,1217,Yelahanka,Bangalore,2,0,0,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+64480,1171,Yelahanka,Bangalore,2,0,0,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+94580,1726,Hosa Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+40000,1005,Electronics City,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+107000,1536,Kannamangala,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+186000,2210,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+84340,1535,Varthur,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+85090,1485,Varthur,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+54260,1080,Begur,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+84000,1047,Brookefield,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+162000,1970,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+232000,2860,Whitefield Hope Farm Junction,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+135000,1695,ITPL,Bangalore,3,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0
+118000,1330,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+150000,1815,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+171000,1890,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+260000,3360,ITPL,Bangalore,4,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+137999.99,1763,ITPL,Bangalore,3,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0
+111000,1397,Brookefield,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+171000,2321,Varthur,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+91000,1216,Varthur,Bangalore,2,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+200000,2830,Varthur,Bangalore,4,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+134000,1917,KPC Layout,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,1,1
+97000,1560,Chikkagubbi on Hennur Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+91000,1450,Chikkagubbi on Hennur Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+75000,1200,Chikkagubbi on Hennur Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+113999.99,1650,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+98000,1490,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+81000,1240,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+45050,1325,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+50320,1480,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+39270,1155,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+43690,1285,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+51510,1515,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+43520,1280,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+43860,1290,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+40460,1190,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+43690,1285,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+106000,1460,Harlur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+98000,1230,Konanakunte,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+97990,1274,Yerthiganahalli,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+88630,1220,Harlur,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+137999.99,1591,Konanakunte,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+85000,1230,JP Nagar Phase 8,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+106000,1445,KPC Layout,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,1,1
+65849.99,1419,Badamanavarthekaval,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+127000,1787,KPC Layout,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,1,1
+90500,1709,Gottigere,Bangalore,3,0,0,1,1,1,1,1,0,0,0,0,0,1,0,1,1
+85000,1590,Talaghattapura,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+70000,1330,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+90500,1709,Gottigere,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+66989.99,1104,J. P. Nagar,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+54990,1220,Konanakunte,Bangalore,2,0,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+90000,1489,Kanakapura,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+68000,1299,Gottigere,Bangalore,2,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+84990,1843,Kanakapura,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+64989.99,1270,Talaghattapura,Bangalore,2,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+64989.99,1257,Kanakapura,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+68000,1195,Subramanyapura,Bangalore,2,0,1,1,1,1,0,1,1,0,1,1,1,1,0,1,1
+78000,1165,Subramanyapura,Bangalore,2,0,1,1,1,1,0,1,1,0,1,1,1,1,0,1,1
+78000,1340,Kanakapura,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+78000,1339,Kanakapura,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+225000,2220,Uttarahalli,Bangalore,3,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+240000,2243,Uttarahalli,Bangalore,3,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+172000,1776,Bannerughatta,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+225000,2370,Bilekahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+90000,1603,Subramanyapura,Bangalore,3,0,1,1,1,1,0,1,1,0,1,1,1,1,0,1,1
+61330,1410,Varthur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+64160,1475,Varthur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+61330,1410,Varthur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+43060,990,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+64160,1475,Varthur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+48720,1120,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+43060,990,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+50020,1150,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+48720,1120,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+50020,1150,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+73510,1690,Varthur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+73510,1690,Varthur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+46110,1060,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+46110,1060,Varthur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+69380,1595,Varthur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+69380,1595,Varthur,Bangalore,3,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+59720,1471,Hennur,Bangalore,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1
+51000,1340,Banashankari,Bangalore,3,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+46000,1340,Banashankari,Bangalore,3,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0
+120000,1773,Kogilu,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+122000,1811,Kogilu,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+102000,1483,Kogilu,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+124000,1816,Kogilu,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+95950,1389,Kogilu,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+119000,1761,Kogilu,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,1
+50500,1260,Electronics City,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+37350,920,Electronics City,Bangalore,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+51800,1295,Bommasandra,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+37000,920,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+37350,920,Electronics City,Bangalore,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+50500,1260,Electronics City,Bangalore,3,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+40990,1015,Bommasandra,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37350,920,Jigani,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37350,920,Bommasandra,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+37350,920,Jigani,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+37340,920,Electronics City,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+40990,1015,Electronics City,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40990,1015,Jigani,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+48000,1143,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+65140,1551,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+50000,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+52020,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1306,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53800,1255,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+57390,1693,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64260,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+58000,1540,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+51480,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+60280,1419,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+54510,1608,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44000,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53800,1255,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+57390,1693,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64260,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+58000,1540,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+51480,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+60280,1419,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64000,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53800,1267,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+56000,1500,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64660,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53220,1570,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+57390,1693,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+52570,1551,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+54510,1608,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64660,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64130,1527,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+51480,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64000,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+50000,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+52020,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1306,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44000,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53220,1570,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+57390,1693,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+52570,1551,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+54510,1608,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64660,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+51480,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64000,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+51480,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64660,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64130,1527,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+50400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+54850,1306,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64260,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64599.99,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44000,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+51480,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+65140,1551,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64000,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64000,1530,RR Nagar,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1187,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+59590,1419,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+50400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+60280,1419,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+64000,1530,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+53800,1255,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+50230,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+50230,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+54000,1295,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+51480,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+54000,1303,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+47840,1196,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+48000,1143,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+44400,1200,RR Nagar,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+38979.99,1068,Electronic City Phase 2,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+37619.99,920,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+41100,1005,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+40000,1005,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+39580,975,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+37350,920,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+40799.99,1005,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+40799.99,1005,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+39290,975,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+38200,955,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+42200,1055,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+40200,1005,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+50770,1260,Bommasandra,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+45000,1000,Devanahalli,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+44000,1000,Devanahalli,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+152000,1792,Bilekahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+256000,3012,Bilekahalli,Bangalore,4,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+200999.99,2370,Bilekahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+119000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+121000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+123000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+123000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+41000,1100,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+68300,1198,Begur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+67500,1198,Begur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+68000,1197,Begur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+100000,1482,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+82500,1232,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+38400,1000,Devanahalli,Bangalore,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+100000,1482,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+116000,1691,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+38000,1000,Devanahalli,Bangalore,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+82000,1232,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+115000,1691,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+40000,1000,Devanahalli,Bangalore,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+38479.99,1000,Devanahalli,Bangalore,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+100000,1482,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+100000,1482,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+83000,1232,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+120000,1691,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+38350,1000,Devanahalli,Bangalore,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+83000,1232,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+81000,1232,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,1
+38250,1000,Devanahalli,Bangalore,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+38650,1000,Devanahalli,Bangalore,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+39000,1005,Bommasandra,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+41000,1055,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+40000,1000,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+41000,1055,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+53000,1365,Bommasandra,Bangalore,3,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+41000,1055,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+53000,1365,Bommasandra,Bangalore,3,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+53000,1365,Bommasandra,Bangalore,3,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+41000,1055,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+53000,1365,Bommasandra,Bangalore,3,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+41000,1050,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+134000,1600,Narayanapura on Hennur Main Road,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,0,1
+135000,1600,Narayanapura on Hennur Main Road,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,0,1
+135000,1500,Narayanapura on Hennur Main Road,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,0,1
+84500,1300,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+79950,1230,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+88740,1305,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+77670,1195,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+84500,1300,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+138999.99,1545,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+200999.99,2240,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+157000,1750,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+157000,1750,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+98000,1520,Nayandahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+76500,1180,Nayandahalli,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+72000,1180,Nayandahalli,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+102000,1520,Nayandahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+128000,1933,Nayandahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+126000,1826,Nayandahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+136000,1749,Nayandahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+126000,1749,Nayandahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+126000,1749,Nayandahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+124000,1739,Nayandahalli,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+109000,1691,Junnasandra,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+140000,2170,Junnasandra,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+109000,1691,Junnasandra,Bangalore,3,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,1
+47510,1145,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+45650,1100,Whitefield Hope Farm Junction,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+92220,1590,RR Nagar,Bangalore,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88740,1305,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+84500,1300,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+138999.99,1545,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+155000,1730,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+90000,1480,R T  Nagar,Bangalore,3,1,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+138999.99,1545,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+113999.99,1865,Kuvempu Layout on Hennur Main Road,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+112000,1865,Kuvempu Layout on Hennur Main Road,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+115000,1865,Kuvempu Layout on Hennur Main Road,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+76000,1241,Begur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+73000,1232,Begur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+74500,1221,Begur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+73000,1220,Begur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+70000,1210,Begur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+79500,1375,Begur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+83500,1368,Begur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+82500,1375,Begur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+80500,1368,Begur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+78000,1366,Begur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+78000,1358,Begur,Bangalore,3,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+78000,1241,Begur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+74500,1232,Begur,Bangalore,2,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+41000,1055,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+53000,1365,Bommasandra,Bangalore,3,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+40000,1055,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+41000,1055,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+41000,1055,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+41000,1055,Bommasandra,Bangalore,4,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+41000,1020,Bommasandra,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+42000,1055,Bommasandra,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+37350,920,Bommasandra,Bangalore,1,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+37350,920,Jigani,Bangalore,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+37350,920,Bommasandra,Bangalore,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+50500,1260,Bommasandra,Bangalore,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+51000,1260,Bommasandra,Bangalore,3,1,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+40000,1015,Bommasandra,Bangalore,2,1,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+42000,1055,Bommasandra,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+50750,1280,Bommasandra,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+39750,1005,Bommasandra,Bangalore,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40000,1005,Bommasandra,Bangalore,2,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+41000,1055,Bommasandra,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41000,1055,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+51000,1280,Bommasandra,Bangalore,3,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+41000,1055,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+41000,1053,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+41000,1054,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+53000,1361,Bommasandra,Bangalore,3,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+53000,1365,Bommasandra,Bangalore,3,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+157000,1750,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+28760,788,Electronic City Phase 2,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+26200,718,Electronic City Phase 2,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+36680,1005,Electronic City Phase 2,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+41000,1054,Bommasandra,Bangalore,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+53000,1361,Bommasandra,Bangalore,3,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+53000,1365,Bommasandra,Bangalore,3,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+157000,1750,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+28760,788,Electronic City Phase 2,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+26200,718,Electronic City Phase 2,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+36680,1005,Electronic City Phase 2,Bangalore,2,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+48610,1332,Electronic City Phase 2,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+48800,1122,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+49000,1215,Kadugodi Industrial Area,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+105000,1482,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+96140,1346,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+88000,1232,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+59330,1745,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+56440,1660,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+119000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+118000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+122000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+121000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+125000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+121000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+123000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+115000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+119000,1850,Kudlu,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+48540,1116,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+55610,1209,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+56940,1238,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+57500,1250,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+54970,1195,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+56250,1223,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+48150,1107,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+50500,1161,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+46190,1062,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+47850,1100,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+73560,1113,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+69160,1040,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+77780,1183,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+74520,1129,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+74280,1125,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+78739.99,1199,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+449000,4450,Sahakar Nagar,Bangalore,4,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1
+434000,4310,Sahakar Nagar,Bangalore,4,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1
+403000,4000,Sahakar Nagar,Bangalore,4,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1
+49720,1143,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+47370,1089,Horamavu,Bangalore,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1
+82180,1505,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+83709.99,1535,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+80390,1470,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+58680,1045,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+60210,1075,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+71940,1290,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+75810,1380,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+81370,1465,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+193000,1901,Marathahalli,Bangalore,3,0,0,1,1,0,1,1,1,0,0,1,0,1,0,1,1
+309000,3029,Marathahalli,Bangalore,3,0,0,1,1,0,1,1,1,0,0,1,0,1,0,1,1
+175000,1447,ITPL,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1
+250000,2293,ITPL,Bangalore,4,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1
+55000,1170,Kothanur,Bangalore,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+92670,1685,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,1,1,1,1,1,0,1,0,1,0,0,1,0,1,0
+87170,1585,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,1,1,1,1,1,0,1,0,1,0,0,1,0,1,0
+80459.99,1463,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,1,1,1,1,1,0,1,0,1,0,0,1,0,1,0
+76319.99,1482,Jakkur,Bangalore,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+66120,1284,Jakkur,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+54430,1057,Jakkur,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+53390,1047,Thanisandra,Bangalore,2,0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1
+52530,1030,Thanisandra,Bangalore,2,0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1
+80880,1586,Thanisandra,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1
+70730,1387,Thanisandra,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1
+63950,1254,Thanisandra,Bangalore,2,0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1
+72720,1426,Thanisandra,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1
+71090,1394,Thanisandra,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1
+72930,1430,Thanisandra,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1
+76550,1501,Thanisandra,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1
+68080,1335,Thanisandra,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1
+116000,1835,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+117000,1850,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+117000,1860,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+112000,1765,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+115000,1830,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+110000,1730,Whitefield Hope Farm Junction,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+88000,1195,Varthur,Bangalore,2,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+154000,2321,Varthur,Bangalore,3,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+79000,1393,RR Nagar,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,0,1
+165000,1800,RMV Extension Stage 2,Bangalore,3,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0
+30240,720,Kudlu,Bangalore,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1
+52500,1250,Kudlu,Bangalore,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1
+51450,1225,Kudlu,Bangalore,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1
+49980,1190,Kudlu,Bangalore,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1
+50400,1200,Kudlu,Bangalore,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1
+46200,1100,Kudlu,Bangalore,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1
+34200,1140,Electronic City Phase 2,Bangalore,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+28200,940,Electronic City Phase 2,Bangalore,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+39600,1320,Electronic City Phase 2,Bangalore,3,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+34799.99,1160,Electronic City Phase 2,Bangalore,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+28800,960,Electronic City Phase 2,Bangalore,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+31800,1060,Electronic City Phase 2,Bangalore,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+51000,1140,Horamavu,Bangalore,2,0,0,1,0,0,1,1,0,0,1,0,0,1,0,1,1
+88000,1195,Varthur,Bangalore,2,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+154000,2321,Varthur,Bangalore,3,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+110000,1655,Varthur,Bangalore,3,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+52500,1080,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82300,1555,Kadugodi,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+54000,960,Varthur,Bangalore,2,0,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1
+54000,1225,Krishnarajapura,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85000,1555,Kadugodi,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+86000,1555,Kadugodi,Bangalore,3,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+102000,1576,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,1,1,0,1,1
+111000,1709,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,1,1,0,1,1
+100000,1550,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,1,1,0,1,1
+117000,1813,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,1,1,0,1,1
+112999.99,1746,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,1,1,0,1,1
+111000,1717,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,1,1,0,1,1
+108000,1665,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,1,1,0,1,1
+107000,1657,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,1,1,0,1,1
+115000,1773,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,1,1,0,1,1
+131000,1846,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+105000,1482,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+96140,1346,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+88000,1232,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+262000,2600,Marathahalli,Bangalore,4,0,0,1,1,0,1,1,1,0,0,1,0,1,0,1,1
+362000,3590,Marathahalli,Bangalore,4,0,0,1,1,0,1,1,1,0,0,1,0,1,0,1,1
+375000,3701,Marathahalli,Bangalore,4,0,0,1,1,0,1,1,1,0,0,1,0,1,0,1,1
+317000,3170,Marathahalli,Bangalore,4,0,0,1,1,0,1,1,1,0,0,1,0,1,0,1,1
+284000,2807,Marathahalli,Bangalore,4,0,0,1,1,0,1,1,1,0,0,1,0,1,0,1,1
+72620,1462,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+66599.99,1172,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+80870,1478,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+62130,1251,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+78400,1589,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+88970,1629,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+72620,1462,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+293000,3012,JP Nagar Phase 7,Bangalore,4,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1
+99990,1901,RR Nagar,Bangalore,3,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+255000,1839,Koramangala,Bangalore,3,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+340000,2461,Koramangala,Bangalore,4,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+175000,1249,Koramangala,Bangalore,2,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+345000,2503,Koramangala,Bangalore,4,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+195000,1385,Koramangala,Bangalore,2,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1
+88000,1195,Varthur,Bangalore,2,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+154000,2321,Varthur,Bangalore,3,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+110000,1655,Varthur,Bangalore,3,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+92770,1275,Bommanahalli,Bangalore,2,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+116000,1615,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+109000,1515,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+105000,1455,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+98590,1360,Bommanahalli,Bangalore,3,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1
+45500,1011,ITPL,Bangalore,1,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+404000,3517,Konanakunte,Bangalore,4,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+331000,2883,Konanakunte,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+401999.99,3498,Konanakunte,Bangalore,4,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+416000,3621,Konanakunte,Bangalore,4,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+336000,2929,Konanakunte,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+320000,2791,Konanakunte,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+57710,1178,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+64120,1309,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+83620,1707,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+63880,1304,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+37470,765,Kanakapura Road Beyond Nice Ring Road,Bangalore,1,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+73090,1492,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+53540,1093,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+45950,938,Kanakapura Road Beyond Nice Ring Road,Bangalore,1,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+83230,1699,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+73480,1500,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+94940,1938,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+72349.99,1477,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+62410,1274,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+52660,1075,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+49820,1017,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+85140,1738,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+62850,1283,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+61580,1257,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+34880,712,Kanakapura Road Beyond Nice Ring Road,Bangalore,1,0,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0
+82349.99,1120,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+106000,1450,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+86760,1180,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+56610,770,Kanakapura Road Beyond Nice Ring Road,Bangalore,1,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+105000,1430,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+95580,1300,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+119000,1630,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+88970,1210,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+69849.99,950,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+108000,1480,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+92640,1260,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+74260,1010,Kanakapura Road Beyond Nice Ring Road,Bangalore,2,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+112000,1530,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+117000,1600,Kanakapura Road Beyond Nice Ring Road,Bangalore,3,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+50000,680,Kanakapura Road Beyond Nice Ring Road,Bangalore,1,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+66910,910,Kanakapura Road Beyond Nice Ring Road,Bangalore,1,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+81000,718,Chikkagubbi on Hennur Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+109000,905,Chikkagubbi on Hennur Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+105000,972,Chikkagubbi on Hennur Main Road,Bangalore,3,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1
+48000,1310,Electronic City Phase 2,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+135000,2350,RR Nagar,Bangalore,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+687000,4053,Rajajinagar,Bangalore,4,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+43590,814,Nelamangala,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+85700,1405,Jalahalli,Bangalore,3,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1
+235000,3613,Whitefield,Bangalore,4,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+105000,1482,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+96140,1346,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+88000,1232,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+87790,1245,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+99000,1545,Yelahanka,Bangalore,3,0,0,1,1,1,0,0,0,0,1,1,0,1,0,0,1
+461000,2678,Rajajinagar,Bangalore,3,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+50550,966,Nelamangala,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+68190,1286,Nelamangala,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+38729.99,708,Nelamangala,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+83709.99,1535,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+80390,1470,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+58680,1045,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+60210,1075,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+71940,1290,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+75810,1380,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+81370,1465,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+66120,1284,Jakkur,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+54430,1057,Jakkur,Bangalore,2,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+76319.99,1482,Jakkur,Bangalore,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+43710,930,Horamavu,Bangalore,1,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+43710,930,Horamavu,Bangalore,1,0,0,1,1,0,1,1,1,0,1,0,0,1,0,1,1
+48880,1040,Horamavu,Bangalore,1,0,0,1,1,0,1,1,1,0,1,0,0,1,0,1,1
+45820,975,Horamavu,Bangalore,2,0,0,1,1,0,1,1,1,0,1,0,0,1,0,1,1
+43710,930,Horamavu,Bangalore,1,0,0,1,1,0,1,1,1,0,1,0,0,1,0,1,1
+48880,1040,Horamavu,Bangalore,1,0,0,1,1,0,1,1,1,0,1,0,0,1,0,1,1
+45820,975,Horamavu,Bangalore,2,0,0,1,1,0,1,1,1,0,1,0,0,1,0,1,1
+48310,1028,Horamavu,Bangalore,2,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+48450,1031,Horamavu,Bangalore,2,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+48550,1033,Horamavu,Bangalore,2,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+52000,1407,Horamavu,Bangalore,1,1,0,1,0,0,0,1,0,0,1,0,0,1,0,1,1
+41630,905,Ramamurthy Nagar,Bangalore,1,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+49500,1107,ITPL,Bangalore,1,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+47380,1030,Ramamurthy Nagar,Bangalore,1,0,1,1,0,1,1,1,1,0,0,0,0,1,0,1,1
+73560,1113,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+69160,1040,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+77780,1183,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+74520,1129,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+74280,1125,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+78739.99,1199,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+66550,1151,Jakkur,Bangalore,2,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+74760,1295,Jakkur,Bangalore,2,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+97620,1696,Jakkur,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+97850,1700,Jakkur,Bangalore,3,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+179000,2700,RMV,Bangalore,3,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+160000,1900,Sahakar Nagar,Bangalore,3,1,1,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+160000,1900,Sahakar Nagar,Bangalore,3,1,1,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+160000,1900,Sahakar Nagar,Bangalore,3,1,1,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+165000,2000,Hebbal,Bangalore,3,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+280000,2700,Hebbal,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1
+185000,2200,Sanjaynagar,Bangalore,3,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1
+53010,1178,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,0,1,0,1,0,0,1,0,0,1,0,1,1
+89000,1500,Jalahalli,Bangalore,3,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1
+60610,1350,Doddanekundi,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+74080,1650,Doddanekundi,Bangalore,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+60830,1355,Doddanekundi,Bangalore,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+59490,1325,Doddanekundi,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+56570,1260,Doddanekundi,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+55000,1225,Doddanekundi,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+58370,1300,Doddanekundi,Bangalore,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+58480,1082,Kumbalgodu,Bangalore,3,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+50890,883,Kumbalgodu,Bangalore,2,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+47890,800,Kumbalgodu,Bangalore,2,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+501000,4622,JP Nagar Phase 4,Bangalore,4,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,1
+501000,4622,JP Nagar Phase 4,Bangalore,4,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,1
+46000,1097,Begur,Bangalore,2,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1
+45000,1076,Begur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+51500,1235,Begur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+62330,1163,Nelamangala,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+101000,1560,Yelahanka,Bangalore,3,0,0,1,1,1,0,0,0,0,1,1,0,1,0,0,1
+35000,538,Krishnarajapura,Bangalore,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+116000,1873,Krishnarajapura,Bangalore,3,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+687000,4053,Rajajinagar,Bangalore,4,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+93350,1476,Begur,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+80010,1265,Begur,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+96580,1527,Begur,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1
+35000,538,Krishnarajapura,Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+116000,1891,Junnasandra,Bangalore,3,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1
+113999.99,1877,Junnasandra,Bangalore,3,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1
+110000,1845,Junnasandra,Bangalore,3,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1
+115000,1888,Junnasandra,Bangalore,3,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1
+117000,1892,Junnasandra,Bangalore,3,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1
+108000,1798,Junnasandra,Bangalore,3,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1
+112000,1862,Junnasandra,Bangalore,3,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1
+59000,1216,Jalahalli,Bangalore,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1
+85000,1340,Jalahalli,Bangalore,3,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1
+236000,3628,Whitefield,Bangalore,4,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+38000,1000,Devanahalli,Bangalore,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+45000,1076,Begur,Bangalore,2,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1
+46000,1097,Begur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+45500,1076,Begur,Bangalore,2,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1
+51500,1235,Begur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+47000,1124,Begur,Bangalore,1,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+45600,1076,Begur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+46350,1097,Begur,Bangalore,2,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+106000,1635,Yelahanka,Bangalore,3,0,0,1,1,1,0,0,0,0,1,1,0,1,0,0,1
+465000,4332,JP Nagar Phase 4,Bangalore,4,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,1
+56700,1260,Narayanapura on Hennur Main Road,Bangalore,2,0,0,1,1,1,0,1,0,0,1,0,0,0,0,1,1
+60000,1272,Jalahalli,Bangalore,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1
+305000,3596,Bellandur,Bangalore,4,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+360000,4239,Bellandur,Bangalore,5,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+225999.99,2666,Bellandur,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+157000,1750,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+138999.99,1545,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+83650,1195,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+78319.99,1205,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+77670,1195,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+91740,1044,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,1
+86620,1230,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+91000,1300,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+91000,1300,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+78319.99,1205,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+88740,1305,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,1
+84920,1205,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+77670,1195,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,0,1,0,1,0,0,1
+70000,1375,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+70000,1375,Narayanapura on Hennur Main Road,Bangalore,3,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+147000,1545,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+84350,1205,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+83650,1195,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+78319.99,1205,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+84350,1205,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+83650,1195,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+88740,1305,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+83650,1195,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+84920,1205,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+77670,1195,Muneshwara Nagar,Bangalore,3,0,0,1,1,0,0,1,1,0,0,1,0,1,0,0,1
+138999.99,1545,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+138999.99,1545,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+138999.99,1545,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+138999.99,1545,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+138999.99,1545,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+138999.99,1545,BTM Layout,Bangalore,3,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+108000,1901,RR Nagar,Bangalore,3,0,0,1,1,1,0,1,0,0,1,0,0,1,0,0,1
+108000,1901,RR Nagar,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,0,1
+79000,1337,RR Nagar,Bangalore,3,0,0,1,1,1,0,1,0,0,1,0,0,1,0,0,1
+79000,1337,RR Nagar,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,0,1
+137999.99,1978,Kumaraswamy Layout,Bangalore,3,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,1
+94360,1505,Jalahalli,Bangalore,3,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1
+87000,1535,Electronic City Phase 2,Bangalore,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+64000,1110,Electronic City Phase 2,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+92000,1455,JP Nagar Phase 7,Bangalore,3,0,0,1,1,0,0,1,0,0,1,1,0,1,0,0,1
+70000,1105,JP Nagar Phase 8,Bangalore,2,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+82000,1271,Kannur on Thanisandra Main Road,Bangalore,3,0,0,1,1,1,1,0,1,0,1,1,1,1,0,1,1
+63000,1078,Kannur on Thanisandra Main Road,Bangalore,2,0,0,1,1,1,1,0,1,0,1,1,1,1,0,1,1
+277999.99,3273,Bellandur,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+229000,2697,Bellandur,Bangalore,3,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+450000,5300,Bellandur,Bangalore,5,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+308000,3633,Bellandur,Bangalore,4,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+457000,5384,Bellandur,Bangalore,5,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+364000,4289,Bellandur,Bangalore,5,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+79000,1393,RR Nagar,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,0,1
+1134000,4977,Richmond Town,Bangalore,4,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+106000,1635,Yelahanka,Bangalore,3,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,1
+106000,1635,Yelahanka,Bangalore,3,0,0,1,1,1,0,0,0,0,1,1,0,1,0,0,1
+92000,1475,Yelahanka,Bangalore,3,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,1
+87000,1360,Jalahalli,Bangalore,3,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1
+101000,1560,Yelahanka,Bangalore,3,0,0,1,1,1,0,0,0,0,1,1,0,1,0,0,1
+85700,1405,Jalahalli,Bangalore,3,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1
+87000,1360,Jalahalli,Bangalore,3,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1
+80250,1408,RR Nagar,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,0,1
+43000,1076,Begur,Bangalore,2,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1
+113999.99,1841,Ramamurthy Nagar,Bangalore,3,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+63000,1183,Jalahalli,Bangalore,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+103000,1620,Yelahanka,Bangalore,3,0,0,1,1,1,0,0,0,0,1,1,0,1,0,0,1
+115000,1869,Ramamurthy Nagar,Bangalore,3,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+79000,1337,RR Nagar,Bangalore,3,0,0,1,1,1,0,1,0,0,1,1,0,1,0,0,1
+87000,1360,Jalahalli,Bangalore,3,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1
+101000,1470,Hosa Road,Bangalore,3,0,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0
+108000,1575,Hosa Road,Bangalore,3,0,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0
+94460,1360,Hosa Road,Bangalore,2,0,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0
+117000,1715,Hosa Road,Bangalore,3,0,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0
+83069.99,1184,Hosa Road,Bangalore,2,0,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0
+48830,655,Hosa Road,Bangalore,1,0,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0
+115000,1680,Hosa Road,Bangalore,3,0,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0
+83780,1195,Hosa Road,Bangalore,2,0,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0
+59510,820,Hosa Road,Bangalore,1,0,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0
+68849.99,1215,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79599.99,1290,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79750,1505,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+76250,1535,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+57600,1465,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+68849.99,1075,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63310,1290,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+157000,1045,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+145000,1846,Narayanapura on Hennur Main Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+137000,1630,Narayanapura on Hennur Main Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+108000,1482,Narayanapura on Hennur Main Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+105000,1232,Narayanapura on Hennur Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+82000,2305,Bileshivale,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+78000,1047,Brookefield,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+99900,1047,Brookefield,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+124000,1397,Brookefield,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+200000,1724,Brookefield,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+51000,2278,Nagawara,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+64000,1145,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+54000,1073,JP Nagar Phase 9,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+89000,935,Budigere Cross,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+89000,1500,Jalahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+235000,1500,Jalahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+92000,3613,Whitefield,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+66000,1475,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+49400,1576,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+66000,1235,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+46700,1576,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+43400,1184,Singasandra,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+66900,1099,Singasandra,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+56900,1610,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+66500,1442,Singasandra,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+66500,1610,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+75400,1610,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+96850,1160,Banaswadi,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71500,1490,Banaswadi,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+51500,1100,Banaswadi,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+65550,1235,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+75000,1576,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+95000,1060,Harlur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+98100,1264,Harlur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+96400,1759,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+92400,1728,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+91400,1653,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+91200,1634,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+90200,1631,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+89400,1614,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79500,1598,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79400,1376,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79300,1375,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79000,1372,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+78500,1368,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+70500,1358,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71800,1210,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+72200,1235,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71400,1241,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39400,1227,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79000,644,Begur,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71000,1368,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+69800,1220,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39400,1197,Begur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+126000,644,Begur,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+78459.99,1204,Brookefield,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+103000,721,Brookefield,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+119000,956,Brookefield,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+93000,2170,Junnasandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+70400,1691,Junnasandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+181000,1225,Budigere Cross,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+61690,1253,HSR Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+249000,427,HSR Layout,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+123000,1746,HSR Layout,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+206000,810,HSR Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80250,1433,HSR Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+173000,1408,RR Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+46710,2494,Whitefield Hope Farm Junction,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+86720,1038,Narayanapura on Hennur Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+52290,910,Harlur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+57800,1162,Kasavanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+85450,1144,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63810,1899,Kasavanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+53640,1271,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62010,1192,Kasavanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+87160,1233,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+81000,1937,Kasavanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59700,1675,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59640,1205,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+55030,1269,Harlur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+56250,1171,Harlur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+53290,1197,Harlur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+92670,969,Sarjapur Road Wipro To Railway Crossing,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+87170,1685,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80459.99,1585,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+69860,1463,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60810,1277,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+78910,1111,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60700,1443,Carmelaram,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59610,1109,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+84420,1089,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+90030,1544,Carmelaram,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59230,1647,Carmelaram,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+61740,1082,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59940,1128,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+81800,1095,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+76620,1496,Carmelaram,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+50000,1401,Carmelaram,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+57800,486,Harlur,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62010,1144,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+84410,1233,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+51430,891,Harlur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+121000,1143,Kasavanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+86720,1213,Harlur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+52290,910,Harlur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+85450,1162,Kasavanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63810,1899,Kasavanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+53640,1271,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+87160,1192,Kasavanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+81000,1937,Kasavanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59700,1675,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+61870,1205,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+67800,1250,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80700,1375,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+89540,1665,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+88000,1216,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+154000,1195,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+110000,2321,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+75959.99,1655,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+72810,1310,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79959.99,1251,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+101000,1385,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+73290,1470,Hosa Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+108000,1260,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+40760,1575,Hosa Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+94460,651,Varthur,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+117000,1360,Hosa Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+91180,1715,Hosa Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+83069.99,1595,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+89580,1184,Hosa Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+48830,1565,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+77030,655,Hosa Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+115000,1330,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+83780,1680,Hosa Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59510,1195,Hosa Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+82160,820,Hosa Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+195000,1170,Hosa Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+185000,2597,Harlur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+125000,2569,Harlur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+180000,1775,Whitefield Hope Farm Junction,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+122000,2591,Whitefield Hope Farm Junction,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+117000,1730,Whitefield Hope Farm Junction,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39159.99,1597,Kannamangala,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+26910,1310,Narayanaghatta,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39460,900,Narayanaghatta,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+35280,1320,Narayanaghatta,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+36770,1180,Narayanaghatta,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+30940,1230,Narayanaghatta,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+38869.99,1035,Narayanaghatta,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+40060,1300,Narayanaghatta,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32290,1340,Narayanaghatta,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32170,1080,Narayanaghatta,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32170,1154,Gottigere,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32170,1154,Gottigere,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32170,1154,Gottigere,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+55000,1154,Gottigere,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+55000,692,Anjanapura Township,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+46000,692,Anjanapura Township,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+40000,1389,Subramanyapura,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+40000,1114,Horamavu,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+28000,1140,Yelahanka,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+382000,1075,Hurulichikanahalli,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+302999.99,3800,Hebbal,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+76000,3335,Hebbal,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+76000,1527,Marathahalli,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+94000,1527,Marathahalli,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+325999.99,1485,Ramamurthy Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+327999.99,2415,Rajajinagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+322000,2436,Rajajinagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+486000,2390,Rajajinagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+264000,3600,Rajajinagar,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+491000,1760,Rajajinagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+348000,3643,Rajajinagar,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+332000,2578,Rajajinagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+351000,2461,Rajajinagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+134000,2601,Rajajinagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+169000,1510,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39000,1903,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+24000,1573,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39000,994,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+29000,1573,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+24000,1174,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+37000,995,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32000,1473,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+50000,1281,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62000,1000,Electronic City Phase 2,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+40000,1075,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39000,1639,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+24000,1574,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+46000,994,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+46000,1075,Chikkalasandra,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+40000,1075,Chikkalasandra,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+38000,1640,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+36000,1529,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+34000,1473,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32000,1371,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32000,1281,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+24000,1281,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+29000,995,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+24000,1174,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+25000,994,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+25000,995,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62000,994,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62000,1075,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62000,1075,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+74000,1075,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+61000,1290,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+24000,1045,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+75000,994,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+41000,1290,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39000,1639,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+38000,1573,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+29000,1529,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+24000,1174,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32000,995,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+345000,1281,Attibele,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+322000,2557,Rajajinagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+322000,2391,Rajajinagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+325000,2386,Rajajinagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+476000,2409,Rajajinagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+319000,3526,Rajajinagar,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+257000,2367,Rajajinagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+463000,1718,Rajajinagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+476000,3436,Rajajinagar,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+162999.99,3533,Rajajinagar,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79720,1906,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71459.99,1362,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+98990,1273,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+73200,1705,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+89540,1304,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+88000,1216,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+154000,1195,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+110000,2321,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+69980,1655,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+66959.99,1505,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+87370,1440,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+78160,1879,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+67420,1681,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+87600,1450,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80020,1884,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+40000,1721,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39000,1639,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+46000,1529,Attibele,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+48000,465,Budigere Cross,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+76000,488,Budigere Cross,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+27500,815,Budigere Cross,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+120000,850,Kengeri,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+21000,2814,Banashankari,Bangalore,4,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+235000,1022,Devarachikkana Halli,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+225000,2560,Banashankari,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+125000,2000,Sampangiram Nagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+235000,1100,Sampangiram Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59000,1580,Armane Nagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+99600,1086,Dasarahalli on Tumkur Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59000,1629,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+99600,1086,Dasarahalli on Tumkur Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+77920,1629,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+99600,1314,Krishnarajapura,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+77920,1629,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+99600,1314,Krishnarajapura,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+77920,1629,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+99600,1314,Krishnarajapura,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+77920,1629,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+99600,1314,Krishnarajapura,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+77920,1629,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+99600,1314,Krishnarajapura,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+77920,1629,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+65860,1314,Krishnarajapura,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+110000,1198,Talaghattapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59000,1500,Basavanagudi,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59000,1086,Dasarahalli on Tumkur Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59000,1086,Dasarahalli on Tumkur Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59000,1086,Dasarahalli on Tumkur Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62000,1086,Dasarahalli on Tumkur Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59000,1086,Dasarahalli on Tumkur Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59000,1086,Dasarahalli on Tumkur Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62000,1086,Dasarahalli on Tumkur Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+232000,1086,Dasarahalli on Tumkur Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+588000,1940,Yeshwantpur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+237000,4900,Yeshwantpur,Bangalore,5,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+229000,1975,Yeshwantpur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+460000,1910,Yeshwantpur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+234000,3835,Yeshwantpur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+450000,1950,Yeshwantpur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+480999.99,3755,Yeshwantpur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+312000,4010,Yeshwantpur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+252000,2600,Yeshwantpur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+232000,2100,Yeshwantpur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+637000,1940,Yeshwantpur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+468000,5310,Yeshwantpur,Bangalore,5,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+246000,3900,Yeshwantpur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+492000,2050,Yeshwantpur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+313000,4105,Yeshwantpur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+135000,2610,Yeshwantpur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+133000,1760,Yeshwantpur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+131000,1725,Yeshwantpur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+117000,1693,Yeshwantpur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+115000,1513,Yeshwantpur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+103000,1479,Yeshwantpur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+116000,1322,Yeshwantpur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+132000,1455,Yeshwantpur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+113999.99,1713,Yeshwantpur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+46070,1427,Yeshwantpur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+134000,966,Nelamangala,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60000,1743,Yeshwantpur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+54340,1286,Nelamangala,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+40000,1163,Nelamangala,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+35229.99,814,Nelamangala,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62990,708,Nelamangala,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+76920,1142,Talaghattapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80560,1414,Talaghattapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80760,1485,Talaghattapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+67390,1489,Talaghattapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+87370,1228,Talaghattapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+67239.99,1618,Talaghattapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+67750,1225,Talaghattapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+86400,1235,Talaghattapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+93110,1599,Talaghattapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+132000,1730,Talaghattapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+162999.99,2088,Hennur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+86290,2574,Hennur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+130000,1359,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+137999.99,2061,Hennur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+55560,2187,Hennur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+45070,1372,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+53130,1113,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+55930,1312,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+42640,1381,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+58720,1053,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+45110,1450,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+44630,1114,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+56900,1102,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+46370,1405,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+43530,1145,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+44100,1075,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+54750,1089,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+46490,1352,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+43820,1148,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+43050,1082,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+56210,1063,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+43010,1388,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+56410,1062,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+42800,1393,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+48550,1057,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+112000,1199,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+86720,1620,Harlur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+140000,1235,Harlur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+140000,2170,Junnasandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+140000,2170,Junnasandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+109000,2170,Junnasandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+109000,1691,Junnasandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+140000,1691,Junnasandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+109000,2170,Junnasandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+109000,1691,Junnasandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+636000,1691,Junnasandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+133000,2793,Richmond Town,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+110000,1900,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+44000,1446,Dasarahalli on Tumkur Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+44000,1119,Battarahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+44000,1119,K C Krishna Reddy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+190000,1119,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+250000,1600,Koramangala,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+93240,1900,Koramangala,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+68599.99,1332,Banashankari,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71650,980,Banashankari,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+61300,1269,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+204000,1126,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+176000,2360,Thanisandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+72000,2307,Thanisandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63000,1275,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+52000,1135,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+73260,1250,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+57800,1404,Carmelaram,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63810,1144,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62010,1271,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+89540,1233,Carmelaram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+88000,1216,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+154000,1195,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+110000,2321,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+91000,1655,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+165000,1400,Banashankari,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71450,1792,JP Nagar Phase 7,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+61850,1262,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+109000,1124,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+109000,1515,Bommanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+106000,1515,Bommanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+106000,1650,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+87000,1650,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+61000,1731,RR Nagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+181000,1185,RR Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+94800,2104,Konanakunte,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+189000,988,Adugodi,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+225999.99,1860,Adugodi,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+222000,3265,Harlur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+76319.99,3210,Harlur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+54430,1482,Jakkur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+136000,1057,Jakkur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+95000,2661,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+52000,1892,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+140000,1251,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+140000,2300,Kogilu,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+140000,2300,Kogilu,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80230,2300,Kogilu,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+110000,1605,Krishnarajapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+85230,2215,Krishnarajapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+81980,1705,Krishnarajapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+98980,1640,Krishnarajapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80730,1980,Krishnarajapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+84230,1615,Krishnarajapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+87730,1685,Krishnarajapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79480,1755,Krishnarajapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+128000,1590,Krishnarajapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+50000,1875,Harlur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+121000,695,Harlur,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+102000,1760,Harlur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+84410,1470,Harlur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+112000,1200,Harlur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60000,1630,Harlur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60000,1422,Hennur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60000,1422,Hennur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+78000,1422,Hennur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+99000,1058,Kammanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+95050,1545,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+41799.99,1422,Kalyan Nagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+72000,1100,Talaghattapura,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+102000,1275,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+111000,1576,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+87790,1709,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+73560,1245,Kannur on Thanisandra Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+69160,1113,Kannur on Thanisandra Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+77780,1040,Kannur on Thanisandra Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+74520,1183,Kannur on Thanisandra Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+74280,1129,Kannur on Thanisandra Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+78739.99,1125,Kannur on Thanisandra Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+46000,1199,Kannur on Thanisandra Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+48000,465,Budigere Cross,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+76000,488,Budigere Cross,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+75959.99,815,Budigere Cross,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+72810,1310,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79959.99,1251,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+73290,1385,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+40760,1260,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+91180,651,Varthur,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+89580,1595,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+77030,1565,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80050,1330,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+64000,1420,Kammanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+70099.99,1208,Kalyan Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+104000,1307,Kammanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+106000,1605,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+124000,1640,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+104000,1940,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+103000,1610,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+142000,1590,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+91170,2225,Electronic City Phase 2,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+137000,1395,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+106000,2150,Electronic City Phase 2,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+115000,1650,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+109000,1790,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+163999.99,1700,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+218000,1776,JP Nagar Phase 7,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+279000,2370,JP Nagar Phase 7,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63000,3012,JP Nagar Phase 7,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71450,1300,Banashankari,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63220,1272,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+53290,1132,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+92670,969,Sarjapur Road Wipro To Railway Crossing,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+87170,1685,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80459.99,1585,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+66120,1463,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+195000,1284,Jakkur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+137999.99,2805,Harlur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+138999.99,2686,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+145000,2796,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+137000,2798,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+53050,2671,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+51430,1179,Kasavanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+75599.99,1143,Kasavanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+52290,1680,Kasavanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+85450,1162,Kasavanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+53640,1899,Kasavanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+87160,1192,Kasavanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+73200,1937,Kasavanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+89000,1304,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+44100,1195,Kudlu Gate,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+56050,1093,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+61260,1419,RR Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+51150,1551,RR Nagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+47240,1295,RR Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+49570,1196,RR Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60430,1255,RR Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+50040,1530,RR Nagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+44830,1267,RR Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+113999.99,1135,RR Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+130000,1880,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+110000,2180,Begur,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+112999.99,1805,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+58100,1850,Begur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+58100,1102,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+44000,1102,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60110,1092,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60110,1419,Hennur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+70000,1419,Hennur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+64000,1306,Kammanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+74900,1206,Kalyan Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+33000,1205,Kalyan Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+58000,900,Kodipalya,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+53000,1100,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+53000,1315,Horamavu,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+64000,1315,Horamavu,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+64000,1205,Kalyan Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+43000,1205,Kalyan Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+81050,1119,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+67050,1516,Kalyan Nagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+94050,1137,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+52800,1345,Kalyan Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+54040,1135,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+55070,1165,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+69160,1190,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+55490,1530,Varthur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+115000,1200,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+100000,1773,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+117000,1550,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+112999.99,1813,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+111000,1746,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+108000,1717,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+107000,1665,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+52000,1657,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+52000,980,Kannur on Thanisandra Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+52000,980,Kannur on Thanisandra Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+172000,980,Kannur on Thanisandra Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+227999.99,1776,JP Nagar Phase 7,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+173000,2370,JP Nagar Phase 7,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+293000,1792,JP Nagar Phase 7,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79720,3012,JP Nagar Phase 7,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71459.99,1362,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+98990,1273,Yelahanka,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71349.99,1705,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63100,1270,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63100,1131,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+75349.99,1131,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+52000,1726,Talaghattapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+52000,1250,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+38880,1250,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+38700,1080,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+40320,1075,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+37799.99,1120,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+45720,1050,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+42120,1270,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+43200,1170,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+50080,1200,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+49990,1102,Kaggadasapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+46590,1100,Kaggadasapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+41180,1412,Krishnarajapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39400,1248,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+38280,1194,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39270,1160,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39600,1190,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+46590,1200,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+41180,1412,Krishnarajapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39400,1248,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+38280,1194,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39270,1160,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+39600,1190,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+61480,1200,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+58480,1083,Kumbalgodu,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+50890,1082,Kumbalgodu,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+47890,883,Kumbalgodu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+550000,800,Kumbalgodu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+240000,4686,Uttarahalli,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+161000,2235,Uttarahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+167000,2686,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+167000,2796,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+207000,2798,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+159000,3450,Yelahanka,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+112999.99,2661,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+160000,1892,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+98990,2671,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+98990,1705,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80000,1705,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+236000,1408,RR Nagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+85000,3628,Whitefield,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+115000,1340,Jalahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79319.99,1940,Yeshwantpur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+325000,1316,Yeshwantpur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+82959.99,2100,Malleswaram,Bangalore,4,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+90000,1360,Jalahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+96390,1182,Dasarahalli on Tumkur Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+89000,1530,Budigere Cross,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+256000,1500,Jalahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+98810,3949,Whitefield,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63100,1545,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71380,1135,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62660,1271,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+49950,1129,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+51750,1110,Banaswadi,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+31950,1150,Banaswadi,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+49500,710,Banaswadi,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+51070,1100,Banaswadi,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+220000,1135,Banaswadi,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+220000,2368,Bilekahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+170000,2368,Bilekahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+146000,1810,Kodigehalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+121000,1665,Kodigehalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+107000,1420,Kodigehalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+70150,1245,Kodigehalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+47000,1352,Uttarahalli Hobli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+51790,1050,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80000,1085,Whitefield,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+79000,1660,Bellandur,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+82000,1600,Electronic City Phase 1,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+90000,1495,Adugodi,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71220,1125,Koramangala,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62220,1269,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+45000,1125,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+65000,1119,Battarahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+69000,1319,Narayanapura on Hennur Main Road,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+169000,1319,Narayanapura on Hennur Main Road,Bangalore,1,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+92000,3450,Yelahanka,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+88000,1475,Jalahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+70150,1300,Brookefield,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+47000,1352,Uttarahalli Hobli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+76780,1002,Uttarahalli Hobli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+51790,1600,Whitefield,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+77800,1085,Whitefield,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+56520,1465,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+31860,1035,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32710,1080,Narayanaghatta,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+28520,1109,Narayanaghatta,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32060,967,Narayanaghatta,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+30090,1087,Narayanaghatta,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+29790,1020,Narayanaghatta,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32500,1010,Narayanaghatta,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+87490,1102,Narayanaghatta,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+68700,1839,Talaghattapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+82430,1419,Talaghattapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62100,1726,Talaghattapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+53110,1128,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63000,1314,Horamavu,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59500,1010,Varthur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+198000,1002,Talaghattapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71500,2508,Thanisandra,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+61750,1271,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+26330,1129,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+29000,1075,Electronics City,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+49000,1000,Electronics City,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+53600,1380,Akshayanagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+67099.99,1375,Akshayanagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+57030,1135,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+50000,1068,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+94000,1208,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71349.99,1347,Kalyan Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62100,1271,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+88000,1129,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+100000,1411,Talaghattapura,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+54010,1777,Whitefield,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+275000,1031,Kammmanhalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+57100,2130,Banashankari,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60160,1066,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+65349.99,1418,Hennur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+38880,1236,Lingarajapuram,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+94100,919,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80099.99,1348,Kalyan Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62100,1427,Kammanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+70050,1007,Kalyan Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+38200,1308,Kammanahalli,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71500,921,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+65340,1260,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+37080,1237,Lingarajapuram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+57000,918,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+56000,1065,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+72000,1335,Indira Nagar,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62250,1275,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+86000,1125,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+57020,1340,HSR Layout,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+67670,1067,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+165000,1304,Sarjapur Road Wipro To Railway Crossing,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+215000,1900,Banashankari,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80120,2200,Nagasandra,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+37119.99,1425,Kammanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62000,917,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+50000,1006,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+90000,1200,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80069.99,1584,Jalahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+82180,1425,Kammanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+83709.99,1505,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80390,1535,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+58680,1470,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60210,1045,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71940,1075,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+75810,1290,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+81370,1380,Electronic City Phase 2,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+75000,1465,Electronic City Phase 2,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+37100,1204,Kalyan Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+45000,916,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+380000,850,Kaval Byrasandra,Bangalore,1,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+270000,3000,RMV,Bangalore,4,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+135000,3250,Sanjay Nagar,Bangalore,4,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+51460,1800,Sanjeevini Nagar,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+89000,971,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71500,1400,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+117000,1266,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+64000,925,Jayanagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+159000,1049,Kannur on Thanisandra Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71750,1285,Jayanagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+155000,1265,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+210000,2026,JP Nagar Phase 4,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+72000,2731,JP Nagar Phase 4,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+74000,1275,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+118000,1182,Dasarahalli on Tumkur Road,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+99000,940,Jayanagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+215000,1530,Yelahanka,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62000,2437,JP Nagar Phase 4,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60170,1266,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+49000,1417,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+94000,1204,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80050,1347,Kalyan Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62000,1423,Kammanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+37049.99,1005,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63560,915,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+65330,1135,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+128000,1236,Lingarajapuram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+127000,1670,Hebbal,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62200,1682,Hebbal,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+161000,1125,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+61750,1900,Cooke Town,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62560,1120,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63560,1130,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+102000,1135,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+90000,1083,Adugodi,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+70000,1446,Dasarahalli on Tumkur Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+81000,1040,Yelahanka,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+171000,1618,Avalahalli Off Sarjapur Road,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+260000,1717,Frazer Town,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+158000,2689,Konanakunte,Bangalore,4,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63250,1270,Jayanagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+210000,1130,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+75000,1836,Indira Nagar,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+225000,1263,Marathahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+49990,2000,Sampangiram Nagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+43180,1143,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63100,814,Nelamangala,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+65190,1104,Kalyan Nagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+113999.99,1230,Lingarajapuram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+55090,2000,Narayanapura on Hennur Main Road,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+113999.99,1205,Hennur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+50460,2000,Narayanapura on Hennur Main Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+42620,966,Nelamangala,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+78430,1075,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63560,1180,Chikkagubbi on Hennur Main Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+72000,1135,Kumaraswamy Layout,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+65000,1275,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+921000,1495,Kengeri,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+787000,3282,Richmond Town,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+743000,2826,Richmond Town,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+235000,2779,Richmond Town,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+66260,1580,Armane Nagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+37590,1300,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59210,690,Electronic City Phase 1,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+73310,1150,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59680,1450,Electronic City Phase 1,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60150,1160,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+235000,1170,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60000,1580,Vasanth Nagar,Bangalore,3,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+80000,1143,Hennur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+84000,1419,Kammanahalli,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+45000,1047,Brookefield,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+47000,1119,Krishnarajapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+45000,1140,Anjanapura,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+137000,1119,Battarahalli,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+40600,1724,Brookefield,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+95010,883,Kumbalgodu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+72000,1450,Chikkagubbi on Hennur Main Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+36000,1275,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+38640,910,Horamavu,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+43490,708,Nelamangala,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+43490,814,Nelamangala,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+65220,814,Nelamangala,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+500000,1233,Lingarajapuram,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+475000,4053,Rajajinagar,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+498000,3766,Rajajinagar,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+743000,3357,Basavanagudi,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+66260,2779,Richmond Town,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+55920,1300,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+48400,1080,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59210,920,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+54980,1150,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60150,1060,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+55450,1170,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+66000,1070,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60000,1116,Nagarbhavi,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+54000,1005,Nagarbhavi,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+53000,903,Nagarbhavi,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+236000,884,Nagarbhavi,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+220000,1759,Jayanagar,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+210000,2600,Hebbal,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+1150000,2440,Thanisandra,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+78000,4150,Hebbal,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+55920,1318,Nagarbhavi,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+48400,1080,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+59210,920,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+54980,1150,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60150,1060,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+55450,1170,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+69500,1070,Electronic City Phase 1,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+67110,1392,Avalahalli Off Sarjapur Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+42090,1320,Avalahalli Off Sarjapur Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+54780,771,Avalahalli Off Sarjapur Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+32670,1128,Avalahalli Off Sarjapur Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+111000,568,Avalahalli Off Sarjapur Road,Bangalore,1,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+67310,2221,Avalahalli Off Sarjapur Road,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63850,1268,Avalahalli Off Sarjapur Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+108000,1272,Avalahalli Off Sarjapur Road,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+60230,2147,Avalahalli Off Sarjapur Road,Bangalore,4,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+50390,1372,Sarjapur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+49430,1148,Sarjapur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+49380,1126,Sarjapur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+90250,1125,Sarjapur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+49870,2056,Sarjapur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+62990,1136,Sarjapur,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+71750,1435,Sarjapur,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+158000,1275,Kumaraswamy Layout,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+118000,1282,Jayanagar,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+140000,1541,JP Nagar Phase 4,Bangalore,2,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+38000,3500,Narayanapura on Hennur Main Road,Bangalore,3,0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+63000,1100,Badamanavarthekaval,Bangalore,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
